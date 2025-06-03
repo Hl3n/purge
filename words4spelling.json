@@ -1,0 +1,3413 @@
+
+	["Easy"] = {
+		{
+			["word"] = "air",
+			["id"] = "rbxassetid://109135974711077",
+			["definition"] = "Noun - Invisible gas we breathe"
+		},
+		{
+			["word"] = "all",
+			["id"] = "rbxassetid://96517117300534",
+			["definition"] = "Noun - Everything"
+		},
+		{
+			["word"] = "and",
+			["id"] = "rbxassetid://125817476954891",
+			["definition"] = "Conjunction - Connects words"
+		},
+		{
+			["word"] = "bad",
+			["id"] = "rbxassetid://91100929346624",
+			["definition"] = "Adjective - Not good"
+		},
+		{
+			["word"] = "bar",
+			["id"] = "rbxassetid://124650357996694",
+			["definition"] = "Noun - Gold ___"
+		},
+		{
+			["word"] = "bib",
+			["id"] = "rbxassetid://122823174261710",
+			["definition"] = "Noun - Babies wear a ___"
+		},
+		{
+			["word"] = "box",
+			["id"] = "rbxassetid://89094978890179",
+			["definition"] = "Noun - Cardboard container"
+		},
+		{
+			["word"] = "bus",
+			["id"] = "rbxassetid://137587891414594",
+			["definition"] = "Noun - Large vehicle for lots of passengers"
+		},
+		{
+			["word"] = "cow",
+			["id"] = "rbxassetid://74722462846808",
+			["definition"] = "Noun - Large farm animal for milk"
+		},
+		{
+			["word"] = "cry",
+			["id"] = "rbxassetid://92195748338676",
+			["definition"] = "Noun - Loud sound when sad"
+		},
+		{
+			["word"] = "cup",
+			["id"] = "rbxassetid://108192480653902",
+			["definition"] = "Noun - Small drink container"
+		},
+		{
+			["word"] = "cut",
+			["id"] = "rbxassetid://137431649266138",
+			["definition"] = "Noun - Injury from sharp object"
+		},
+		{
+			["word"] = "dad",
+			["id"] = "rbxassetid://125202717040998",
+			["definition"] = "Noun - Father"
+		},
+		{
+			["word"] = "day",
+			["id"] = "rbxassetid://93993961106863",
+			["definition"] = "Noun - 24-hour time period"
+		},
+		{
+			["word"] = "dog",
+			["id"] = "rbxassetid://107209240536706",
+			["definition"] = "Noun - Domesticated pet animal"
+		},
+		{
+			["word"] = "eat",
+			["id"] = "rbxassetid://70542608009470",
+			["definition"] = "Verb - To consume food"
+		},
+		{
+			["word"] = "far",
+			["id"] = "rbxassetid://71791551881898",
+			["definition"] = "Adjective - At a great distance"
+		},
+		{
+			["word"] = "fat",
+			["id"] = "rbxassetid://80003207905322",
+			["definition"] = "Noun - Joe mama is ___"
+		},
+		{
+			["word"] = "fed",
+			["id"] = "rbxassetid://95863182586684",
+			["definition"] = "Verb - Gave food"
+		},
+		{
+			["word"] = "fly",
+			["id"] = "rbxassetid://102631563291948",
+			["definition"] = "Noun - Small flying insect"
+		},
+		{
+			["word"] = "fur",
+			["id"] = "rbxassetid://128946939240431",
+			["definition"] = "Noun - Soft animal hair"
+		},
+		{
+			["word"] = "gas",
+			["id"] = "rbxassetid://100752566286589",
+			["definition"] = "Noun - Air-like substance"
+		},
+		{
+			["word"] = "gum",
+			["id"] = "rbxassetid://126416115753070",
+			["definition"] = "Noun - Sticky candy"
+		},
+		{
+			["word"] = "hen",
+			["id"] = "rbxassetid://137468058368248",
+			["definition"] = "Noun - Female chicken"
+		},
+		{
+			["word"] = "hot",
+			["id"] = "rbxassetid://92317871903090",
+			["definition"] = "Adjective - High temperature"
+		},
+		{
+			["word"] = "ice",
+			["id"] = "rbxassetid://137848746639638",
+			["definition"] = "Noun - Frozen water"
+		},
+		{
+			["word"] = "icy",
+			["id"] = "rbxassetid://114407669461907",
+			["definition"] = "Adjective - Covered with ice"
+		},
+		{
+			["word"] = "ill",
+			["id"] = "rbxassetid://79269731710889",
+			["definition"] = "Adjective - Sick or unwell"
+		},
+		{
+			["word"] = "ink",
+			["id"] = "rbxassetid://114627255191830",
+			["definition"] = "Noun - Colored liquid for writing"
+		},
+		{
+			["word"] = "jaw",
+			["id"] = "rbxassetid://87626048777767",
+			["definition"] = "Noun - Lower part of the face"
+		},
+		{
+			["word"] = "jet",
+			["id"] = "rbxassetid://126686063493543",
+			["definition"] = "Noun - Fast airplane or stream"
+		},
+		{
+			["word"] = "joy",
+			["id"] = "rbxassetid://100571657454640",
+			["definition"] = "Noun - Great happiness"
+		},
+		{
+			["word"] = "key",
+			["id"] = "rbxassetid://138798414277871",
+			["definition"] = "Noun - Tool to open locks"
+		},
+		{
+			["word"] = "kid",
+			["id"] = "rbxassetid://92001654064753",
+			["definition"] = "Noun - Child or young person"
+		},
+		{
+			["word"] = "log",
+			["id"] = "rbxassetid://128016601395878",
+			["definition"] = "Noun - Part of tree trunk or wood"
+		},
+		{
+			["word"] = "map",
+			["id"] = "rbxassetid://104901792861127",
+			["definition"] = "Noun - Picture of an area"
+		},
+		{
+			["word"] = "mom",
+			["id"] = "rbxassetid://71988478413110",
+			["definition"] = "Noun - Mother or mama"
+		},
+		{
+			["word"] = "mop",
+			["id"] = "rbxassetid://83265688447818",
+			["definition"] = "Noun - Tool to clean floors"
+		},
+		{
+			["word"] = "nap",
+			["id"] = "rbxassetid://92136153180239",
+			["definition"] = "Noun - Short sleep"
+		},
+		{
+			["word"] = "now",
+			["id"] = "rbxassetid://108227636370885",
+			["definition"] = "Noun - The present time"
+		},
+		{
+			["word"] = "oil",
+			["id"] = "rbxassetid://89689805291949",
+			["definition"] = "Noun - Thick black liquid"
+		},
+		{
+			["word"] = "out",
+			["id"] = "rbxassetid://101770163938639",
+			["definition"] = "Noun - Being away from a place"
+		},
+		{
+			["word"] = "own",
+			["id"] = "rbxassetid://115831714029286",
+			["definition"] = "Noun - Possession"
+		},
+		{
+			["word"] = "pig",
+			["id"] = "rbxassetid://124889091188055",
+			["definition"] = "Noun - Pink farm animal"
+		},
+		{
+			["word"] = "red",
+			["id"] = "rbxassetid://133799271942680",
+			["definition"] = "Noun - Color next to orange"
+		},
+		{
+			["word"] = "rob",
+			["id"] = "rbxassetid://85485681590737",
+			["definition"] = "Verb - To steal from someone"
+		},
+		{
+			["word"] = "saw",
+			["id"] = "rbxassetid://89161907221404",
+			["definition"] = "Noun - Tool with a sharp blade"
+		},
+		{
+			["word"] = "say",
+			["id"] = "rbxassetid://95894517721508",
+			["definition"] = "Noun - A statement or word"
+		},
+		{
+			["word"] = "six",
+			["id"] = "rbxassetid://119809710005805",
+			["definition"] = "Noun - Number after five"
+		},
+		{
+			["word"] = "sky",
+			["id"] = "rbxassetid://96616158796109",
+			["definition"] = "Noun - Blue space above us"
+		},
+		{
+			["word"] = "spa",
+			["id"] = "rbxassetid://136431845429749",
+			["definition"] = "Noun - Place to relax and get treatments"
+		},
+		{
+			["word"] = "tax",
+			["id"] = "rbxassetid://98093134289702",
+			["definition"] = "Noun - Money paid to the government"
+		},
+		{
+			["word"] = "tea",
+			["id"] = "rbxassetid://83742234657788",
+			["definition"] = "Noun - Hot drink made from leaves"
+		},
+		{
+			["word"] = "ten",
+			["id"] = "rbxassetid://86649069861473",
+			["definition"] = "Noun - Number after nine"
+		},
+		{
+			["word"] = "tree",
+			["id"] = "rbxassetid://118785508506004",
+			["definition"] = "Noun - Tall plant with branches"
+		},
+		{
+			["word"] = "try",
+			["id"] = "rbxassetid://71330404867952",
+			["definition"] = "Noun - An attempt"
+		},
+		{
+			["word"] = "web",
+			["id"] = "rbxassetid://96385372175882",
+			["definition"] = "Noun - Spider\'s net"
+		},
+		{
+			["word"] = "wig",
+			["id"] = "rbxassetid://91046268396074",
+			["definition"] = "Noun - Hairpiece"
+		},
+		{
+			["word"] = "zoo",
+			["id"] = "rbxassetid://135833684708859",
+			["definition"] = "Noun - Place to see animals"
+		}
+	},
+	["Medium"] = {
+		{
+			["word"] = "pill",
+			["id"] = "rbxassetid://89098888133335",
+			["definition"] = "Noun - Small medicine"
+		},
+		{
+			["word"] = "cube",
+			["id"] = "rbxassetid://100118588785386",
+			["definition"] = "Noun - Six-faced solid"
+		},
+		{
+			["word"] = "germ",
+			["id"] = "rbxassetid://74695446821286",
+			["definition"] = "Noun - Microorganism"
+		},
+		{
+			["word"] = "rock",
+			["id"] = "rbxassetid://111870467358026",
+			["definition"] = "Noun - Hard mineral"
+		},
+		{
+			["word"] = "fine",
+			["id"] = "rbxassetid://71695718646324",
+			["definition"] = "Adjective - Of high quality"
+		},
+		{
+			["word"] = "same",
+			["id"] = "rbxassetid://116625814837349",
+			["definition"] = "Adjective - Identical"
+		},
+		{
+			["word"] = "cold",
+			["id"] = "rbxassetid://106799381914677",
+			["definition"] = "Adjective - Low temperature"
+		},
+		{
+			["word"] = "jeep",
+			["id"] = "rbxassetid://71848185037444",
+			["definition"] = "Noun - Off-road vehicle"
+		},
+		{
+			["word"] = "silk",
+			["id"] = "rbxassetid://117586707505123",
+			["definition"] = "Noun - Smooth natural fiber"
+		},
+		{
+			["word"] = "chug",
+			["id"] = "rbxassetid://86507389244181",
+			["definition"] = "Verb - To drink quickly"
+		},
+		{
+			["word"] = "gold",
+			["id"] = "rbxassetid://114223177413973",
+			["definition"] = "Noun - Precious metal"
+		},
+		{
+			["word"] = "coat",
+			["id"] = "rbxassetid://84420985020741",
+			["definition"] = "Noun - Outer garment"
+		},
+		{
+			["word"] = "trio",
+			["id"] = "rbxassetid://71324783503121",
+			["definition"] = "Noun - Group of three"
+		},
+		{
+			["word"] = "jail",
+			["id"] = "rbxassetid://93819164632861",
+			["definition"] = "Noun - Prison"
+		},
+		{
+			["word"] = "leg",
+			["id"] = "rbxassetid://101772297885494",
+			["definition"] = "Noun - Lower limb"
+		},
+		{
+			["word"] = "fear",
+			["id"] = "rbxassetid://134662780080285",
+			["definition"] = "Noun - Intense anxiety"
+		},
+		{
+			["word"] = "snow",
+			["id"] = "rbxassetid://101027930449086",
+			["definition"] = "Noun - Frozen precipitation"
+		},
+		{
+			["word"] = "thin",
+			["id"] = "rbxassetid://84695903130469",
+			["definition"] = "Adjective - Not thick"
+		},
+		{
+			["word"] = "gear",
+			["id"] = "rbxassetid://112974534185834",
+			["definition"] = "Noun - Equipment or parts"
+		},
+		{
+			["word"] = "stay",
+			["id"] = "rbxassetid://106896078115334",
+			["definition"] = "Verb - Remain in place"
+		},
+		{
+			["word"] = "mine",
+			["id"] = "rbxassetid://78394628460819",
+			["definition"] = "Noun - Excavated site or possessive"
+		},
+		{
+			["word"] = "nest",
+			["id"] = "rbxassetid://136839229738707",
+			["definition"] = "Noun - Home of birds"
+		},
+		{
+			["word"] = "hood",
+			["id"] = "rbxassetid://80366248400102",
+			["definition"] = "Noun - Covering for the head"
+		},
+		{
+			["word"] = "sung",
+			["id"] = "rbxassetid://106137857619304",
+			["definition"] = "Verb - Past tense of sing"
+		},
+		{
+			["word"] = "many",
+			["id"] = "rbxassetid://139724644881148",
+			["definition"] = "Adjective - A large number"
+		},
+		{
+			["word"] = "find",
+			["id"] = "rbxassetid://92311541087052",
+			["definition"] = "Verb - To discover"
+		},
+		{
+			["word"] = "lean",
+			["id"] = "rbxassetid://89498068233498",
+			["definition"] = "Verb - To incline"
+		},
+		{
+			["word"] = "most",
+			["id"] = "rbxassetid://114600652255057",
+			["definition"] = "Adjective - Greatest amount"
+		},
+		{
+			["word"] = "path",
+			["id"] = "rbxassetid://101671901251070",
+			["definition"] = "Noun - Trail or route"
+		},
+		{
+			["word"] = "slip",
+			["id"] = "rbxassetid://79426799620239",
+			["definition"] = "Verb - To slide unintentionally"
+		},
+		{
+			["word"] = "hoop",
+			["id"] = "rbxassetid://101566717673694",
+			["definition"] = "Noun - Circular band"
+		},
+		{
+			["word"] = "kids",
+			["id"] = "rbxassetid://97118553427991",
+			["definition"] = "Noun - Children"
+		},
+		{
+			["word"] = "crab",
+			["id"] = "rbxassetid://119473509764369",
+			["definition"] = "Noun - Crustacean"
+		},
+		{
+			["word"] = "fold",
+			["id"] = "rbxassetid://118085660542899",
+			["definition"] = "Verb - To bend over"
+		},
+		{
+			["word"] = "take",
+			["id"] = "rbxassetid://111338019242335",
+			["definition"] = "Verb - To grasp or carry"
+		},
+		{
+			["word"] = "news",
+			["id"] = "rbxassetid://138255409584363",
+			["definition"] = "Noun - Recent events"
+		},
+		{
+			["word"] = "shoe",
+			["id"] = "rbxassetid://92096068761554",
+			["definition"] = "Noun - Footwear"
+		},
+		{
+			["word"] = "dump",
+			["id"] = "rbxassetid://133301378415508",
+			["definition"] = "Noun - Disposal site"
+		},
+		{
+			["word"] = "dark",
+			["id"] = "rbxassetid://133066526275256",
+			["definition"] = "Adjective - Little light"
+		},
+		{
+			["word"] = "wind",
+			["id"] = "rbxassetid://76751504565549",
+			["definition"] = "Noun - Moving air"
+		},
+		{
+			["word"] = "cage",
+			["id"] = "rbxassetid://70752456865543",
+			["definition"] = "Noun - Enclosure for animals"
+		},
+		{
+			["word"] = "drew",
+			["id"] = "rbxassetid://118920521005009",
+			["definition"] = "Verb - Past tense of draw"
+		},
+		{
+			["word"] = "bugs",
+			["id"] = "rbxassetid://133711834777682",
+			["definition"] = "Noun - Insects"
+		},
+		{
+			["word"] = "only",
+			["id"] = "rbxassetid://126783037240803",
+			["definition"] = "Adjective - Sole or single"
+		},
+		{
+			["word"] = "foot",
+			["id"] = "rbxassetid://85091561097849",
+			["definition"] = "Noun - Lower extremity"
+		},
+		{
+			["word"] = "acid",
+			["id"] = "rbxassetid://110136998557666",
+			["definition"] = "Noun - Corrosive substance"
+		},
+		{
+			["word"] = "rate",
+			["id"] = "rbxassetid://77068283079148",
+			["definition"] = "Noun - Measure or speed"
+		},
+		{
+			["word"] = "curb",
+			["id"] = "rbxassetid://71471414288775",
+			["definition"] = "Noun - Edge of a sidewalk"
+		},
+		{
+			["word"] = "flee",
+			["id"] = "rbxassetid://120212158324192",
+			["definition"] = "Verb - To run away"
+		},
+		{
+			["word"] = "kiss",
+			["id"] = "rbxassetid://83469592439752",
+			["definition"] = "Verb - To touch with lips"
+		},
+		{
+			["word"] = "talk",
+			["id"] = "rbxassetid://95296820947990",
+			["definition"] = "Verb - To speak"
+		},
+		{
+			["word"] = "rope",
+			["id"] = "rbxassetid://124262102868152",
+			["definition"] = "Noun - Strong cord"
+		},
+		{
+			["word"] = "grow",
+			["id"] = "rbxassetid://113937963055698",
+			["definition"] = "Verb - To increase in size"
+		},
+		{
+			["word"] = "lord",
+			["id"] = "rbxassetid://86491308698925",
+			["definition"] = "Noun - A master or ruler"
+		},
+		{
+			["word"] = "trap",
+			["id"] = "rbxassetid://131348434510639",
+			["definition"] = "Noun - Device to catch"
+		},
+		{
+			["word"] = "fork",
+			["id"] = "rbxassetid://138456284305251",
+			["definition"] = "Noun - Utensil with prongs"
+		},
+		{
+			["word"] = "wave",
+			["id"] = "rbxassetid://134014367588355",
+			["definition"] = "Noun - Moving ridge on water"
+		},
+		{
+			["word"] = "ages",
+			["id"] = "rbxassetid://88343337450888",
+			["definition"] = "Noun - Long periods of time"
+		},
+		{
+			["word"] = "wasp",
+			["id"] = "rbxassetid://73589569502099",
+			["definition"] = "Noun - Stinging insect"
+		},
+		{
+			["word"] = "glue",
+			["id"] = "rbxassetid://110291074470234",
+			["definition"] = "Noun - Adhesive substance"
+		},
+		{
+			["word"] = "busy",
+			["id"] = "rbxassetid://122837418217474",
+			["definition"] = "Adjective - Occupied"
+		},
+		{
+			["word"] = "open",
+			["id"] = "rbxassetid://87761478913906",
+			["definition"] = "Adjective - Not closed"
+		},
+		{
+			["word"] = "city",
+			["id"] = "rbxassetid://137067882642811",
+			["definition"] = "Noun - Large town"
+		},
+		{
+			["word"] = "size",
+			["id"] = "rbxassetid://80149278505843",
+			["definition"] = "Noun - Dimensions or magnitude"
+		},
+		{
+			["word"] = "cost",
+			["id"] = "rbxassetid://92850044440241",
+			["definition"] = "Noun - Price of something"
+		},
+		{
+			["word"] = "town",
+			["id"] = "rbxassetid://115830551146412",
+			["definition"] = "Noun - A populated area"
+		},
+		{
+			["word"] = "pink",
+			["id"] = "rbxassetid://101813817571055",
+			["definition"] = "Adjective - Light red color"
+		},
+		{
+			["word"] = "yard",
+			["id"] = "rbxassetid://76283721016227",
+			["definition"] = "Noun - Unit of measurement or area"
+		},
+		{
+			["word"] = "stop",
+			["id"] = "rbxassetid://136828301577307",
+			["definition"] = "Verb - To cease movement"
+		},
+		{
+			["word"] = "vest",
+			["id"] = "rbxassetid://132927616122052",
+			["definition"] = "Noun - Sleeveless garment"
+		},
+		{
+			["word"] = "yell",
+			["id"] = "rbxassetid://99114146778525",
+			["definition"] = "Verb - To shout loudly"
+		},
+		{
+			["word"] = "core",
+			["id"] = "rbxassetid://100645788433871",
+			["definition"] = "Noun - Central part"
+		},
+		{
+			["word"] = "snip",
+			["id"] = "rbxassetid://114114329814052",
+			["definition"] = "Verb - To cut briefly"
+		},
+		{
+			["word"] = "bike",
+			["id"] = "rbxassetid://92176148898791",
+			["definition"] = "Noun - Bicycle"
+		},
+		{
+			["word"] = "move",
+			["id"] = "rbxassetid://106315179043196",
+			["definition"] = "Verb - To change position"
+		},
+		{
+			["word"] = "chip",
+			["id"] = "rbxassetid://122957359736360",
+			["definition"] = "Noun - Small fragment"
+		},
+		{
+			["word"] = "acne",
+			["id"] = "rbxassetid://118131917710844",
+			["definition"] = "Noun - Skin condition"
+		},
+		{
+			["word"] = "verb",
+			["id"] = "rbxassetid://126911400227634",
+			["definition"] = "Noun - Action word"
+		},
+		{
+			["word"] = "give",
+			["id"] = "rbxassetid://123734112957822",
+			["definition"] = "Verb - To present"
+		},
+		{
+			["word"] = "bowl",
+			["id"] = "rbxassetid://74251107826157",
+			["definition"] = "Noun - Round dish"
+		},
+		{
+			["word"] = "knob",
+			["id"] = "rbxassetid://83447186249348",
+			["definition"] = "Noun - Round handle"
+		},
+		{
+			["word"] = "past",
+			["id"] = "rbxassetid://117918290037376",
+			["definition"] = "Adjective - Gone by"
+		},
+		{
+			["word"] = "pale",
+			["id"] = "rbxassetid://127691585952436",
+			["definition"] = "Adjective - Light in color"
+		},
+		{
+			["word"] = "loaf",
+			["id"] = "rbxassetid://138292789785397",
+			["definition"] = "Noun - A shaped mass of bread"
+		},
+		{
+			["word"] = "fail",
+			["id"] = "rbxassetid://114713066346571",
+			["definition"] = "Verb - To not succeed"
+		},
+		{
+			["word"] = "mice",
+			["id"] = "rbxassetid://133389163694176",
+			["definition"] = "Noun - Plural of mouse"
+		},
+		{
+			["word"] = "make",
+			["id"] = "rbxassetid://105327883738672",
+			["definition"] = "Verb - To create"
+		},
+		{
+			["word"] = "blow",
+			["id"] = "rbxassetid://88226082020825",
+			["definition"] = "Verb - To expel air"
+		},
+		{
+			["word"] = "calm",
+			["id"] = "rbxassetid://74590273167228",
+			["definition"] = "Adjective - Peaceful"
+		},
+		{
+			["word"] = "wire",
+			["id"] = "rbxassetid://97422783716340",
+			["definition"] = "Noun - Metal thread"
+		},
+		{
+			["word"] = "boss",
+			["id"] = "rbxassetid://70659802882912",
+			["definition"] = "Noun - Leader or supervisor"
+		},
+		{
+			["word"] = "bark",
+			["id"] = "rbxassetid://107945323146044",
+			["definition"] = "Noun - Outer layer of a tree"
+		},
+		{
+			["word"] = "hand",
+			["id"] = "rbxassetid://101538555512952",
+			["definition"] = "Noun - Part of the body"
+		},
+		{
+			["word"] = "need",
+			["id"] = "rbxassetid://88345805684302",
+			["definition"] = "Verb - To require something"
+		},
+		{
+			["word"] = "boot",
+			["id"] = "rbxassetid://105172732463422",
+			["definition"] = "Noun - Footwear"
+		},
+		{
+			["word"] = "boil",
+			["id"] = "rbxassetid://105277246154160",
+			["definition"] = "Verb - To heat liquid"
+		},
+		{
+			["word"] = "look",
+			["id"] = "rbxassetid://82869603653355",
+			["definition"] = "Verb - To direct gaze"
+		},
+		{
+			["word"] = "hate",
+			["id"] = "rbxassetid://112459643783030",
+			["definition"] = "Verb - Intense dislike"
+		},
+		{
+			["word"] = "soil",
+			["id"] = "rbxassetid://82485201641946",
+			["definition"] = "Noun - Earth or dirt"
+		},
+		{
+			["word"] = "pile",
+			["id"] = "rbxassetid://109127726140567",
+			["definition"] = "Noun - Heap of things"
+		},
+		{
+			["word"] = "melt",
+			["id"] = "rbxassetid://129873670403140",
+			["definition"] = "Verb - To liquefy"
+		},
+		{
+			["word"] = "leak",
+			["id"] = "rbxassetid://72354397839468",
+			["definition"] = "Verb - To escape liquid or gas"
+		},
+		{
+			["word"] = "inch",
+			["id"] = "rbxassetid://118911475245434",
+			["definition"] = "Noun - Unit of measurement"
+		},
+		{
+			["word"] = "soft",
+			["id"] = "rbxassetid://111061985877651",
+			["definition"] = "Adjective - Not hard"
+		},
+		{
+			["word"] = "tasty",
+			["id"] = "rbxassetid://103226890814881",
+			["definition"] = "Adjective - Delicious"
+		},
+		{
+			["word"] = "tight",
+			["id"] = "rbxassetid://136489786324861",
+			["definition"] = "Adjective - Firmly fixed"
+		},
+		{
+			["word"] = "grill",
+			["id"] = "rbxassetid://132645213590207",
+			["definition"] = "Noun - Cooking device"
+		},
+		{
+			["word"] = "meter",
+			["id"] = "rbxassetid://75258116049407",
+			["definition"] = "Noun - Unit of measurement or device"
+		},
+		{
+			["word"] = "block",
+			["id"] = "rbxassetid://103559903812227",
+			["definition"] = "Noun - Solid piece or city area"
+		},
+		{
+			["word"] = "graph",
+			["id"] = "rbxassetid://106682204592698",
+			["definition"] = "Noun - Diagram showing data"
+		},
+		{
+			["word"] = "track",
+			["id"] = "rbxassetid://94563294794134",
+			["definition"] = "Noun - Path or rail"
+		},
+		{
+			["word"] = "greet",
+			["id"] = "rbxassetid://132746609757008",
+			["definition"] = "Verb - To welcome"
+		},
+		{
+			["word"] = "bumpy",
+			["id"] = "rbxassetid://98514505892765",
+			["definition"] = "Adjective - Full of bumps"
+		},
+		{
+			["word"] = "field",
+			["id"] = "rbxassetid://72674581621196",
+			["definition"] = "Noun - Open land or area of study"
+		},
+		{
+			["word"] = "clear",
+			["id"] = "rbxassetid://125989044373043",
+			["definition"] = "Adjective - Transparent or obvious"
+		},
+		{
+			["word"] = "tough",
+			["id"] = "rbxassetid://97291080191453",
+			["definition"] = "Adjective - Strong or difficult"
+		},
+		{
+			["word"] = "daily",
+			["id"] = "rbxassetid://123896780052663",
+			["definition"] = "Adjective - Happening every day"
+		},
+		{
+			["word"] = "chess",
+			["id"] = "rbxassetid://75430535374430",
+			["definition"] = "Noun - Strategic board game"
+		},
+		{
+			["word"] = "knife",
+			["id"] = "rbxassetid://111205484219912",
+			["definition"] = "Noun - Cutting tool"
+		},
+		{
+			["word"] = "plant",
+			["id"] = "rbxassetid://72148399319212",
+			["definition"] = "Noun - Living organism or factory"
+		},
+		{
+			["word"] = "visit",
+			["id"] = "rbxassetid://125688953843762",
+			["definition"] = "Verb - To go see"
+		},
+		{
+			["word"] = "world",
+			["id"] = "rbxassetid://113943127508490",
+			["definition"] = "Noun - The Earth or all life"
+		},
+		{
+			["word"] = "price",
+			["id"] = "rbxassetid://122077142229334",
+			["definition"] = "Noun - Cost of something"
+		},
+		{
+			["word"] = "child",
+			["id"] = "rbxassetid://137191708968915",
+			["definition"] = "Noun - Young human"
+		},
+		{
+			["word"] = "buddy",
+			["id"] = "rbxassetid://139953811972075",
+			["definition"] = "Noun - Friend"
+		},
+		{
+			["word"] = "comma",
+			["id"] = "rbxassetid://82177821338337",
+			["definition"] = "Noun - Punctuation mark"
+		},
+		{
+			["word"] = "mouth",
+			["id"] = "rbxassetid://95659896361891",
+			["definition"] = "Noun - Opening for eating and speaking"
+		},
+		{
+			["word"] = "comic",
+			["id"] = "rbxassetid://132919520302285",
+			["definition"] = "Noun - Humorous material or book"
+		},
+		{
+			["word"] = "coast",
+			["id"] = "rbxassetid://79012911862118",
+			["definition"] = "Noun - Seaside area"
+		},
+		{
+			["word"] = "crazy",
+			["id"] = "rbxassetid://128587465797383",
+			["definition"] = "Adjective - Mentally unstable or wild"
+		},
+		{
+			["word"] = "fault",
+			["id"] = "rbxassetid://93702103716299",
+			["definition"] = "Noun - Mistake or responsibility"
+		},
+		{
+			["word"] = "crush",
+			["id"] = "rbxassetid://99462442397068",
+			["definition"] = "Verb - To press forcefully"
+		},
+		{
+			["word"] = "sling",
+			["id"] = "rbxassetid://134399899814029",
+			["definition"] = "Noun - A bandage or weapon"
+		},
+		{
+			["word"] = "guide",
+			["id"] = "rbxassetid://124019223975056",
+			["definition"] = "Noun - Person who shows the way"
+		},
+		{
+			["word"] = "throw",
+			["id"] = "rbxassetid://89205873623586",
+			["definition"] = "Verb - To propel with force"
+		},
+		{
+			["word"] = "marry",
+			["id"] = "rbxassetid://92983881063032",
+			["definition"] = "Verb - To join in marriage"
+		},
+		{
+			["word"] = "order",
+			["id"] = "rbxassetid://115209903190157",
+			["definition"] = "Noun - Arrangement or command"
+		},
+		{
+			["word"] = "cloth",
+			["id"] = "rbxassetid://111522093806886",
+			["definition"] = "Noun - Fabric material"
+		},
+		{
+			["word"] = "wrong",
+			["id"] = "rbxassetid://94176432385972",
+			["definition"] = "Adjective - Incorrect or immoral"
+		},
+		{
+			["word"] = "horse",
+			["id"] = "rbxassetid://91074434741679",
+			["definition"] = "Noun - Large domesticated animal"
+		},
+		{
+			["word"] = "spell",
+			["id"] = "rbxassetid://79241630479820",
+			["definition"] = "Verb - To form words with letters"
+		},
+		{
+			["word"] = "daddy",
+			["id"] = "rbxassetid://92261205356508",
+			["definition"] = "Noun - Informal term for father"
+		},
+		{
+			["word"] = "alone",
+			["id"] = "rbxassetid://138546905629049",
+			["definition"] = "Adjective - Without others"
+		},
+		{
+			["word"] = "truck",
+			["id"] = "rbxassetid://89759344328351",
+			["definition"] = "Noun - Large vehicle for transporting"
+		},
+		{
+			["word"] = "braid",
+			["id"] = "rbxassetid://89601810615363",
+			["definition"] = "Noun - Interwoven strands of hair"
+		},
+		{
+			["word"] = "solid",
+			["id"] = "rbxassetid://81452967644459",
+			["definition"] = "Adjective - Firm and stable"
+		},
+		{
+			["word"] = "quest",
+			["id"] = "rbxassetid://125625627205034",
+			["definition"] = "Noun - Long search or pursuit"
+		},
+		{
+			["word"] = "adapt",
+			["id"] = "rbxassetid://74817854352065",
+			["definition"] = "Verb - To adjust to new conditions"
+		},
+		{
+			["word"] = "shaky",
+			["id"] = "rbxassetid://128069670895000",
+			["definition"] = "Adjective - Not stable"
+		},
+		{
+			["word"] = "scout",
+			["id"] = "rbxassetid://129865147605167",
+			["definition"] = "Noun - Explorer or finder"
+		},
+		{
+			["word"] = "creek",
+			["id"] = "rbxassetid://132937905376866",
+			["definition"] = "Noun - Small stream"
+		},
+		{
+			["word"] = "grass",
+			["id"] = "rbxassetid://73881221280167",
+			["definition"] = "Noun - Green plant covering ground"
+		},
+		{
+			["word"] = "brick",
+			["id"] = "rbxassetid://127437277743936",
+			["definition"] = "Noun - Building material"
+		},
+		{
+			["word"] = "grief",
+			["id"] = "rbxassetid://104228901926861",
+			["definition"] = "Noun - Deep sorrow"
+		},
+		{
+			["word"] = "minus",
+			["id"] = "rbxassetid://72060451991857",
+			["definition"] = "Preposition - Indicating subtraction"
+		},
+		{
+			["word"] = "stone",
+			["id"] = "rbxassetid://93011022737296",
+			["definition"] = "Noun - Hard mineral material"
+		},
+		{
+			["word"] = "snipe",
+			["id"] = "rbxassetid://117137386217651",
+			["definition"] = "Noun - A type of bird"
+		},
+		{
+			["word"] = "godly",
+			["id"] = "rbxassetid://90918282711373",
+			["definition"] = "Adjective - Devout or sacred"
+		}
+	},
+	["Hard"] = {
+		{
+			["word"] = "cancel",
+			["id"] = "rbxassetid://131718194307592",
+			["definition"] = "Verb - To decide something is no longer valid"
+		},
+		{
+			["word"] = "washed",
+			["id"] = "rbxassetid://119914014092146",
+			["definition"] = "Verb - Past tense of wash"
+		},
+		{
+			["word"] = "happen",
+			["id"] = "rbxassetid://108230256957036",
+			["definition"] = "Verb - To occur or take place"
+		},
+		{
+			["word"] = "forest",
+			["id"] = "rbxassetid://72954587609954",
+			["definition"] = "Noun - A large area covered with trees"
+		},
+		{
+			["word"] = "unkind",
+			["id"] = "rbxassetid://126067599318291",
+			["definition"] = "Adjective - Not friendly or generous"
+		},
+		{
+			["word"] = "pirate",
+			["id"] = "rbxassetid://98135439736039",
+			["definition"] = "Noun - A person who attacks ships"
+		},
+		{
+			["word"] = "female",
+			["id"] = "rbxassetid://95970299216964",
+			["definition"] = "Adjective - Relating to the sex that can bear offspring"
+		},
+		{
+			["word"] = "degree",
+			["id"] = "rbxassetid://117503780914528",
+			["definition"] = "Noun - A unit of measurement or academic rank"
+		},
+		{
+			["word"] = "unique",
+			["id"] = "rbxassetid://139855848782423",
+			["definition"] = "Adjective - Being the only one of its kind"
+		},
+		{
+			["word"] = "craggy",
+			["id"] = "rbxassetid://109220545214873",
+			["definition"] = "Adjective - Having a rough or uneven surface"
+		},
+		{
+			["word"] = "ascend",
+			["id"] = "rbxassetid://74779922815627",
+			["definition"] = "Verb - To move upward"
+		},
+		{
+			["word"] = "island",
+			["id"] = "rbxassetid://114351078213555",
+			["definition"] = "Noun - A piece of land surrounded by water"
+		},
+		{
+			["word"] = "people",
+			["id"] = "rbxassetid://139845859205512",
+			["definition"] = "Noun - Human beings in general"
+		},
+		{
+			["word"] = "magnet",
+			["id"] = "rbxassetid://120184073310204",
+			["definition"] = "Noun - An object that attracts iron"
+		},
+		{
+			["word"] = "loaves",
+			["id"] = "rbxassetid://135690533629391",
+			["definition"] = "Noun - Plural of loaf, a quantity of bread"
+		},
+		{
+			["word"] = "ceased",
+			["id"] = "rbxassetid://82793806927879",
+			["definition"] = "Verb - Past tense of cease, to stop"
+		},
+		{
+			["word"] = "unlock",
+			["id"] = "rbxassetid://106610557854791",
+			["definition"] = "Verb - To open something locked"
+		},
+		{
+			["word"] = "sticky",
+			["id"] = "rbxassetid://118934948939996",
+			["definition"] = "Adjective - Tending to stick"
+		},
+		{
+			["word"] = "depict",
+			["id"] = "rbxassetid://120374050631600",
+			["definition"] = "Verb - To represent by art"
+		},
+		{
+			["word"] = "sleepy",
+			["id"] = "rbxassetid://115743686916370",
+			["definition"] = "Adjective - Ready to sleep"
+		},
+		{
+			["word"] = "damage",
+			["id"] = "rbxassetid://80221502172735",
+			["definition"] = "Noun - Physical harm"
+		},
+		{
+			["word"] = "equity",
+			["id"] = "rbxassetid://87733567723154",
+			["definition"] = "Noun - Fairness or justice in dealings"
+		},
+		{
+			["word"] = "owning",
+			["id"] = "rbxassetid://132088749426205",
+			["definition"] = "Verb - Possessing something"
+		},
+		{
+			["word"] = "employ",
+			["id"] = "rbxassetid://89168773619943",
+			["definition"] = "Verb - To hire someone"
+		},
+		{
+			["word"] = "bounty",
+			["id"] = "rbxassetid://134969511009444",
+			["definition"] = "Noun - A reward, especially offered for capturing someone"
+		},
+		{
+			["word"] = "career",
+			["id"] = "rbxassetid://129025187444594",
+			["definition"] = "Noun - An occupation undertaken for a significant period"
+		},
+		{
+			["word"] = "hollow",
+			["id"] = "rbxassetid://86035235151692",
+			["definition"] = "Adjective - Having a hole or empty space inside"
+		},
+		{
+			["word"] = "quartz",
+			["id"] = "rbxassetid://94018101246483",
+			["definition"] = "Noun - A hard mineral consisting of silicon dioxide"
+		},
+		{
+			["word"] = "rocket",
+			["id"] = "rbxassetid://131759056922778",
+			["definition"] = "Noun - A missile or spacecraft"
+		},
+		{
+			["word"] = "radish",
+			["id"] = "rbxassetid://138907293852776",
+			["definition"] = "Noun - A small, edible root vegetable"
+		},
+		{
+			["word"] = "barrel",
+			["id"] = "rbxassetid://115147289116998",
+			["definition"] = "Noun - A cylindrical container"
+		},
+		{
+			["word"] = "square",
+			["id"] = "rbxassetid://82254726498768",
+			["definition"] = "Noun - A plane figure with four equal sides"
+		},
+		{
+			["word"] = "polite",
+			["id"] = "rbxassetid://139225543292904",
+			["definition"] = "Adjective - Showing good manners"
+		},
+		{
+			["word"] = "lotion",
+			["id"] = "rbxassetid://139602715005334",
+			["definition"] = "Noun - A liquid preparation for skin application"
+		},
+		{
+			["word"] = "papers",
+			["id"] = "rbxassetid://73939269928721",
+			["definition"] = "Noun - Sheets of written or printed material"
+		},
+		{
+			["word"] = "common",
+			["id"] = "rbxassetid://136585766693095",
+			["definition"] = "Adjective - Occurring frequently"
+		},
+		{
+			["word"] = "catnip",
+			["id"] = "rbxassetid://72442681286283",
+			["definition"] = "Noun - A plant that affects cats"
+		},
+		{
+			["word"] = "tongue",
+			["id"] = "rbxassetid://121947177067602",
+			["definition"] = "Noun - The muscular organ in the mouth"
+		},
+		{
+			["word"] = "proved",
+			["id"] = "rbxassetid://74335430349825",
+			["definition"] = "Verb - Past tense of prove"
+		},
+		{
+			["word"] = "lining",
+			["id"] = "rbxassetid://73698822767142",
+			["definition"] = "Noun - A layer inside something"
+		},
+		{
+			["word"] = "quarry",
+			["id"] = "rbxassetid://89825271657317",
+			["definition"] = "Noun - A place where stone is extracted"
+		},
+		{
+			["word"] = "bronze",
+			["id"] = "rbxassetid://111938615384719",
+			["definition"] = "Noun - A yellowish-brown alloy of copper"
+		},
+		{
+			["word"] = "gentle",
+			["id"] = "rbxassetid://103984642874368",
+			["definition"] = "Adjective - Mild in temperament"
+		},
+		{
+			["word"] = "twelve",
+			["id"] = "rbxassetid://96428173416866",
+			["definition"] = "Noun - The number equivalent to two times six"
+		},
+		{
+			["word"] = "stitch",
+			["id"] = "rbxassetid://116446024007668",
+			["definition"] = "Noun - A loop of thread in sewing"
+		},
+		{
+			["word"] = "banana",
+			["id"] = "rbxassetid://77518763548432",
+			["definition"] = "Noun - A long curved fruit"
+		},
+		{
+			["word"] = "aspect",
+			["id"] = "rbxassetid://120294571615894",
+			["definition"] = "Noun - A particular part or feature"
+		},
+		{
+			["word"] = "cosmic",
+			["id"] = "rbxassetid://106903241075177",
+			["definition"] = "Adjective - Relating to the universe"
+		},
+		{
+			["word"] = "jacket",
+			["id"] = "rbxassetid://78457037709955",
+			["definition"] = "Noun - An outer garment worn on the upper body"
+		},
+		{
+			["word"] = "guitar",
+			["id"] = "rbxassetid://87405567582740",
+			["definition"] = "Noun - A stringed musical instrument"
+		},
+		{
+			["word"] = "replay",
+			["id"] = "rbxassetid://136458575547387",
+			["definition"] = "Verb - To play again"
+		},
+		{
+			["word"] = "redeem",
+			["id"] = "rbxassetid://90630744519049",
+			["definition"] = "Verb - To compensate for a fault or mistake"
+		},
+		{
+			["word"] = "meddle",
+			["id"] = "rbxassetid://132080742372000",
+			["definition"] = "Verb - To interfere in something"
+		},
+		{
+			["word"] = "friend",
+			["id"] = "rbxassetid://111664486831197",
+			["definition"] = "Noun - A person attached by feelings of affection"
+		},
+		{
+			["word"] = "pollen",
+			["id"] = "rbxassetid://115562888848071",
+			["definition"] = "Noun - Fine powder from flowers"
+		},
+		{
+			["word"] = "gospel",
+			["id"] = "rbxassetid://95461264926764",
+			["definition"] = "Noun - The teachings of Christianity"
+		},
+		{
+			["word"] = "bright",
+			["id"] = "rbxassetid://119394824367458",
+			["definition"] = "Adjective - Giving out or reflecting much light"
+		},
+		{
+			["word"] = "harass",
+			["id"] = "rbxassetid://103644670266313",
+			["definition"] = "Verb - To subject to aggressive pressure"
+		},
+		{
+			["word"] = "easily",
+			["id"] = "rbxassetid://138162979917584",
+			["definition"] = "Adverb - Without difficulty"
+		},
+		{
+			["word"] = "timber",
+			["id"] = "rbxassetid://107288427932698",
+			["definition"] = "Noun - Wood prepared for use in building"
+		},
+		{
+			["word"] = "intent",
+			["id"] = "rbxassetid://127920973227349",
+			["definition"] = "Noun - Intention or purpose"
+		},
+		{
+			["word"] = "prince",
+			["id"] = "rbxassetid://125348615243685",
+			["definition"] = "Noun - A male royal family member"
+		},
+		{
+			["word"] = "severe",
+			["id"] = "rbxassetid://112757876672924",
+			["definition"] = "Adjective - Very great; intense"
+		},
+		{
+			["word"] = "agenda",
+			["id"] = "rbxassetid://91131253840266",
+			["definition"] = "Noun - A list of items to be discussed"
+		},
+		{
+			["word"] = "seldom",
+			["id"] = "rbxassetid://115747189280873",
+			["definition"] = "Adverb - Not often"
+		},
+		{
+			["word"] = "absurd",
+			["id"] = "rbxassetid://98392299918701",
+			["definition"] = "Adjective - Wildly unreasonable"
+		},
+		{
+			["word"] = "sitcom",
+			["id"] = "rbxassetid://134991751638617",
+			["definition"] = "Noun - A situation comedy television show"
+		},
+		{
+			["word"] = "bother",
+			["id"] = "rbxassetid://97272913525929",
+			["definition"] = "Verb - To take the trouble to do something"
+		},
+		{
+			["word"] = "aghast",
+			["id"] = "rbxassetid://116706565581238",
+			["definition"] = "Adjective - Struck with horror or amazement"
+		},
+		{
+			["word"] = "stairs",
+			["id"] = "rbxassetid://85578164147934",
+			["definition"] = "Noun - A set of steps for going from one level to another"
+		},
+		{
+			["word"] = "huddle",
+			["id"] = "rbxassetid://87665541508624",
+			["definition"] = "Verb - To crowd together"
+		},
+		{
+			["word"] = "chorus",
+			["id"] = "rbxassetid://80911103685222",
+			["definition"] = "Noun - A part of a song repeated after each verse"
+		},
+		{
+			["word"] = "indent",
+			["id"] = "rbxassetid://80769325261247",
+			["definition"] = "Verb - To make a space at the beginning of a line"
+		},
+		{
+			["word"] = "terror",
+			["id"] = "rbxassetid://71295470087023",
+			["definition"] = "Noun - Extreme fear"
+		},
+		{
+			["word"] = "engine",
+			["id"] = "rbxassetid://133397124174314",
+			["definition"] = "Noun - A machine converting energy into motion"
+		},
+		{
+			["word"] = "buckle",
+			["id"] = "rbxassetid://111421922220707",
+			["definition"] = "Verb - To fasten with a buckle"
+		},
+		{
+			["word"] = "guilty",
+			["id"] = "rbxassetid://79821964651707",
+			["definition"] = "Adjective - Culpable of wrongdoing"
+		},
+		{
+			["word"] = "sneeze",
+			["id"] = "rbxassetid://112572435192571",
+			["definition"] = "Verb - To expel air forcibly through the nose"
+		},
+		{
+			["word"] = "stride",
+			["id"] = "rbxassetid://83923730652733",
+			["definition"] = "Noun - A long step"
+		},
+		{
+			["word"] = "crunch",
+			["id"] = "rbxassetid://104043881528198",
+			["definition"] = "Verb - To crush or grind noisily"
+		},
+		{
+			["word"] = "around",
+			["id"] = "rbxassetid://104343431035618",
+			["definition"] = "Adverb - Located or situated on every side"
+		},
+		{
+			["word"] = "tattoo",
+			["id"] = "rbxassetid://80758990302742",
+			["definition"] = "Noun - A permanent design made on the skin"
+		},
+		{
+			["word"] = "mammal",
+			["id"] = "rbxassetid://80400832923221",
+			["definition"] = "Noun - A warm-blooded vertebrate animal"
+		},
+		{
+			["word"] = "unfair",
+			["id"] = "rbxassetid://88819530508973",
+			["definition"] = "Adjective - Not based on or behaving according to fairness"
+		},
+		{
+			["word"] = "crouch",
+			["id"] = "rbxassetid://102260606881809",
+			["definition"] = "Verb - To bend low with knees"
+		},
+		{
+			["word"] = "thread",
+			["id"] = "rbxassetid://73857562792385",
+			["definition"] = "Noun - A thin strand of cotton or other fiber"
+		},
+		{
+			["word"] = "oyster",
+			["id"] = "rbxassetid://103133157862182",
+			["definition"] = "Noun - A marine mollusk with a rough shell"
+		},
+		{
+			["word"] = "salary",
+			["id"] = "rbxassetid://93795223886410",
+			["definition"] = "Noun - A fixed regular payment"
+		},
+		{
+			["word"] = "ladies",
+			["id"] = "rbxassetid://127846970131944",
+			["definition"] = "Noun - Plural of lady, women"
+		},
+		{
+			["word"] = "clinic",
+			["id"] = "rbxassetid://140278609701653",
+			["definition"] = "Noun - A healthcare facility"
+		},
+		{
+			["word"] = "copies",
+			["id"] = "rbxassetid://104797879239196",
+			["definition"] = "Noun - Reproductions of originals"
+		},
+		{
+			["word"] = "saying",
+			["id"] = "rbxassetid://74319807191057",
+			["definition"] = "Noun - A short, pithy expression"
+		},
+		{
+			["word"] = "strand",
+			["id"] = "rbxassetid://115578804112317",
+			["definition"] = "Noun - A single thin length of something"
+		},
+		{
+			["word"] = "skiing",
+			["id"] = "rbxassetid://139646205927981",
+			["definition"] = "Noun - The sport of traveling over snow"
+		},
+		{
+			["word"] = "string",
+			["id"] = "rbxassetid://72705374207222",
+			["definition"] = "Noun - Material consisting of a thin length"
+		},
+		{
+			["word"] = "burrow",
+			["id"] = "rbxassetid://100182619598115",
+			["definition"] = "Verb - To dig a hole or tunnel"
+		},
+		{
+			["word"] = "gather",
+			["id"] = "rbxassetid://114309236375921",
+			["definition"] = "Verb - To come together"
+		},
+		{
+			["word"] = "uneasy",
+			["id"] = "rbxassetid://133573036069666",
+			["definition"] = "Adjective - Feeling anxiety or discomfort"
+		},
+		{
+			["word"] = "tender",
+			["id"] = "rbxassetid://86748118909641",
+			["definition"] = "Adjective - Gentle and kind"
+		},
+		{
+			["word"] = "better",
+			["id"] = "rbxassetid://126607538926938",
+			["definition"] = "Adjective - Of a higher standard"
+		},
+		{
+			["word"] = "runner",
+			["id"] = "rbxassetid://100448905078542",
+			["definition"] = "Noun - Someone who runs"
+		},
+		{
+			["word"] = "awhile",
+			["id"] = "rbxassetid://129406092489261",
+			["definition"] = "Adverb - For a short time"
+		},
+		{
+			["word"] = "slowly",
+			["id"] = "rbxassetid://80506516569557",
+			["definition"] = "Adverb - At a low speed"
+		},
+		{
+			["word"] = "stroll",
+			["id"] = "rbxassetid://101198290582617",
+			["definition"] = "Verb - To walk in a leisurely way"
+		},
+		{
+			["word"] = "family",
+			["id"] = "rbxassetid://120044072011406",
+			["definition"] = "Noun - A group of related people"
+		},
+		{
+			["word"] = "remake",
+			["id"] = "rbxassetid://116657440450403",
+			["definition"] = "Verb - To make again or differently"
+		},
+		{
+			["word"] = "raised",
+			["id"] = "rbxassetid://123528822335459",
+			["definition"] = "Verb - Past tense of raise"
+		},
+		{
+			["word"] = "should",
+			["id"] = "rbxassetid://114480014792366",
+			["definition"] = "Modal Verb - Used to indicate obligation"
+		},
+		{
+			["word"] = "poodle",
+			["id"] = "rbxassetid://101289687441726",
+			["definition"] = "Noun - A curly-haired dog breed"
+		},
+		{
+			["word"] = "expect",
+			["id"] = "rbxassetid://135664003866731",
+			["definition"] = "Verb - To anticipate or look forward to"
+		},
+		{
+			["word"] = "behold",
+			["id"] = "rbxassetid://112962728239101",
+			["definition"] = "Verb - To see or observe"
+		},
+		{
+			["word"] = "thirty",
+			["id"] = "rbxassetid://105675670684064",
+			["definition"] = "Noun - The number equal to three times ten"
+		},
+		{
+			["word"] = "vision",
+			["id"] = "rbxassetid://81984449065798",
+			["definition"] = "Noun - The faculty of sight or a mental image"
+		},
+		{
+			["word"] = "barter",
+			["id"] = "rbxassetid://140136758594323",
+			["definition"] = "Verb - To trade goods or services"
+		},
+		{
+			["word"] = "larger",
+			["id"] = "rbxassetid://106616849574374",
+			["definition"] = "Adjective - Bigger in size"
+		},
+		{
+			["word"] = "pierce",
+			["id"] = "rbxassetid://114342672502754",
+			["definition"] = "Verb - To penetrate or make a hole"
+		},
+		{
+			["word"] = "defame",
+			["id"] = "rbxassetid://81296077344110",
+			["definition"] = "Verb - To damage someone\'s reputation"
+		},
+		{
+			["word"] = "urgent",
+			["id"] = "rbxassetid://112334581220382",
+			["definition"] = "Adjective - Requiring immediate action"
+		},
+		{
+			["word"] = "pebble",
+			["id"] = "rbxassetid://82127872508313",
+			["definition"] = "Noun - A small, smooth stone"
+		},
+		{
+			["word"] = "breath",
+			["id"] = "rbxassetid://121012444861694",
+			["definition"] = "Noun - The air taken into or expelled from the lungs"
+		},
+		{
+			["word"] = "temple",
+			["id"] = "rbxassetid://85854013900220",
+			["definition"] = "Noun - A building for worship"
+		},
+		{
+			["word"] = "corner",
+			["id"] = "rbxassetid://140630136257946",
+			["definition"] = "Noun - The point where two lines meet"
+		},
+		{
+			["word"] = "mascot",
+			["id"] = "rbxassetid://101691934858398",
+			["definition"] = "Noun - A symbolic figure or animal representing a group"
+		},
+		{
+			["word"] = "agreed",
+			["id"] = "rbxassetid://77461237992341",
+			["definition"] = "Verb - Past tense of agree"
+		},
+		{
+			["word"] = "cobweb",
+			["id"] = "rbxassetid://130815569831921",
+			["definition"] = "Noun - A spider\'s web"
+		},
+		{
+			["word"] = "forget",
+			["id"] = "rbxassetid://94164101558151",
+			["definition"] = "Verb - To fail to remember"
+		},
+		{
+			["word"] = "shrimp",
+			["id"] = "rbxassetid://105967555173460",
+			["definition"] = "Noun - A small marine crustacean"
+		},
+		{
+			["word"] = "expert",
+			["id"] = "rbxassetid://93875647423842",
+			["definition"] = "Noun - A person with extensive knowledge"
+		},
+		{
+			["word"] = "excuse",
+			["id"] = "rbxassetid://117743686795044",
+			["definition"] = "Verb - To forgive or pardon"
+		},
+		{
+			["word"] = "clover",
+			["id"] = "rbxassetid://131240995068051",
+			["definition"] = "Noun - A plant with trifoliate leaves"
+		},
+		{
+			["word"] = "crayon",
+			["id"] = "rbxassetid://95864362336780",
+			["definition"] = "Noun - A colored wax stick for drawing"
+		},
+		{
+			["word"] = "rooster",
+			["id"] = "rbxassetid://83551002919630",
+			["definition"] = "Noun - A male chicken"
+		},
+		{
+			["word"] = "hatchet",
+			["id"] = "rbxassetid://72864543596262",
+			["definition"] = "Noun - A small axe with a short handle"
+		},
+		{
+			["word"] = "swimmer",
+			["id"] = "rbxassetid://132714375621084",
+			["definition"] = "Noun - A person who swims"
+		},
+		{
+			["word"] = "flannel",
+			["id"] = "rbxassetid://108579979368268",
+			["definition"] = "Noun - A soft woven fabric"
+		},
+		{
+			["word"] = "satisfy",
+			["id"] = "rbxassetid://80068970829379",
+			["definition"] = "Verb - To fulfill a desire or need"
+		},
+		{
+			["word"] = "chamber",
+			["id"] = "rbxassetid://133744893476869",
+			["definition"] = "Noun - A large room for meetings"
+		},
+		{
+			["word"] = "college",
+			["id"] = "rbxassetid://95804682950545",
+			["definition"] = "Noun - An educational institution"
+		},
+		{
+			["word"] = "harness",
+			["id"] = "rbxassetid://138620818257774",
+			["definition"] = "Noun - Equipment for controlling animals"
+		},
+		{
+			["word"] = "evident",
+			["id"] = "rbxassetid://100731709655257",
+			["definition"] = "Adjective - Clearly seen or understood"
+		},
+		{
+			["word"] = "furtive",
+			["id"] = "rbxassetid://93694066871778",
+			["definition"] = "Adjective - Secretive or stealthy"
+		},
+		{
+			["word"] = "remains",
+			["id"] = "rbxassetid://111175345958995",
+			["definition"] = "Noun - What is left after removal"
+		},
+		{
+			["word"] = "scratch",
+			["id"] = "rbxassetid://71375157469472",
+			["definition"] = "Verb - To rub or scrape lightly"
+		},
+		{
+			["word"] = "sitting",
+			["id"] = "rbxassetid://76061456605048",
+			["definition"] = "Verb - Present participle of sit"
+		},
+		{
+			["word"] = "shipper",
+			["id"] = "rbxassetid://114997205691243",
+			["definition"] = "Noun - A person who ships goods"
+		},
+		{
+			["word"] = "complex",
+			["id"] = "rbxassetid://89864957978561",
+			["definition"] = "Adjective - Complicated or intricate"
+		},
+		{
+			["word"] = "figures",
+			["id"] = "rbxassetid://123272937533624",
+			["definition"] = "Noun - Numerical symbols or shapes"
+		},
+		{
+			["word"] = "instead",
+			["id"] = "rbxassetid://134117821991517",
+			["definition"] = "Adverb - As a substitute"
+		},
+		{
+			["word"] = "skinned",
+			["id"] = "rbxassetid://116129876522503",
+			["definition"] = "Verb - Past tense of skin"
+		},
+		{
+			["word"] = "culture",
+			["id"] = "rbxassetid://134445645555151",
+			["definition"] = "Noun - The arts and other manifestations"
+		},
+		{
+			["word"] = "capably",
+			["id"] = "rbxassetid://132247313920204",
+			["definition"] = "Adverb - In a competent manner"
+		},
+		{
+			["word"] = "stapler",
+			["id"] = "rbxassetid://85661766567676",
+			["definition"] = "Noun - A device for binding papers"
+		},
+		{
+			["word"] = "recruit",
+			["id"] = "rbxassetid://98698910874635",
+			["definition"] = "Verb - To enlist new members"
+		},
+		{
+			["word"] = "thieves",
+			["id"] = "rbxassetid://132426050697053",
+			["definition"] = "Noun - People who steal"
+		},
+		{
+			["word"] = "emotion",
+			["id"] = "rbxassetid://77585046312479",
+			["definition"] = "Noun - A strong feeling"
+		},
+		{
+			["word"] = "brushed",
+			["id"] = "rbxassetid://83102957567123",
+			["definition"] = "Verb - Past tense of brush"
+		},
+		{
+			["word"] = "heating",
+			["id"] = "rbxassetid://86560367550783",
+			["definition"] = "Noun - The process of making warm"
+		},
+		{
+			["word"] = "keeping",
+			["id"] = "rbxassetid://99343508532239",
+			["definition"] = "Verb - Present participle of keep"
+		},
+		{
+			["word"] = "bobtail",
+			["id"] = "rbxassetid://82146332997418",
+			["definition"] = "Noun - A short tail"
+		},
+		{
+			["word"] = "elderly",
+			["id"] = "rbxassetid://101450852424693",
+			["definition"] = "Adjective - Older and dignified"
+		},
+		{
+			["word"] = "eclipse",
+			["id"] = "rbxassetid://123113963987094",
+			["definition"] = "Noun - An obscuring of light"
+		},
+		{
+			["word"] = "scenery",
+			["id"] = "rbxassetid://89905024947716",
+			["definition"] = "Noun - Natural features of a landscape"
+		},
+		{
+			["word"] = "verdict",
+			["id"] = "rbxassetid://122158986119558",
+			["definition"] = "Noun - A decision in a trial"
+		},
+		{
+			["word"] = "lender",
+			["id"] = "rbxassetid://132773294566198",
+			["definition"] = "Noun - A person who lends money"
+		},
+		{
+			["word"] = "capture",
+			["id"] = "rbxassetid://124061740892702",
+			["definition"] = "Verb - To take control by force"
+		},
+		{
+			["word"] = "passing",
+			["id"] = "rbxassetid://135961930901776",
+			["definition"] = "Verb - Present participle of pass"
+		},
+		{
+			["word"] = "recount",
+			["id"] = "rbxassetid://139049628774163",
+			["definition"] = "Verb - To narrate or tell"
+		},
+		{
+			["word"] = "biscuit",
+			["id"] = "rbxassetid://102202880160459",
+			["definition"] = "Noun - A small baked unleavened cake"
+		},
+		{
+			["word"] = "succeed",
+			["id"] = "rbxassetid://86780637253011",
+			["definition"] = "Verb - To achieve desired result"
+		},
+		{
+			["word"] = "squeeze",
+			["id"] = "rbxassetid://136825640788624",
+			["definition"] = "Verb - To firmly press"
+		},
+		{
+			["word"] = "failure",
+			["id"] = "rbxassetid://140209865803977",
+			["definition"] = "Noun - Lack of success"
+		},
+		{
+			["word"] = "prairie",
+			["id"] = "rbxassetid://126487720049431",
+			["definition"] = "Noun - A large open grassland"
+		},
+		{
+			["word"] = "magnify",
+			["id"] = "rbxassetid://132869020637279",
+			["definition"] = "Verb - To make larger or more important"
+		},
+		{
+			["word"] = "restart",
+			["id"] = "rbxassetid://126842495336310",
+			["definition"] = "Verb - To begin again"
+		},
+		{
+			["word"] = "phantom",
+			["id"] = "rbxassetid://87719752855745",
+			["definition"] = "Noun - A ghost or apparition"
+		},
+		{
+			["word"] = "partner",
+			["id"] = "rbxassetid://86242580225585",
+			["definition"] = "Noun - A person in a business or relationship"
+		},
+		{
+			["word"] = "scuffle",
+			["id"] = "rbxassetid://140357025563206",
+			["definition"] = "Noun - A short fight"
+		},
+		{
+			["word"] = "tunnels",
+			["id"] = "rbxassetid://111070303818045",
+			["definition"] = "Noun - Underground passages"
+		},
+		{
+			["word"] = "nursery",
+			["id"] = "rbxassetid://127223206064945",
+			["definition"] = "Noun - A place for young children"
+		},
+		{
+			["word"] = "archery",
+			["id"] = "rbxassetid://83127802873205",
+			["definition"] = "Noun - The sport of shooting arrows"
+		},
+		{
+			["word"] = "sincere",
+			["id"] = "rbxassetid://71314030389093",
+			["definition"] = "Adjective - Genuine and honest"
+		},
+		{
+			["word"] = "iceberg",
+			["id"] = "rbxassetid://115839969633670",
+			["definition"] = "Noun - A large floating mass of ice"
+		},
+		{
+			["word"] = "concept",
+			["id"] = "rbxassetid://85542171098525",
+			["definition"] = "Noun - An abstract idea"
+		},
+		{
+			["word"] = "boulder",
+			["id"] = "rbxassetid://113166530797111",
+			["definition"] = "Noun - A large rock"
+		},
+		{
+			["word"] = "helping",
+			["id"] = "rbxassetid://76937018224125",
+			["definition"] = "Verb - Present participle of help"
+		},
+		{
+			["word"] = "confess",
+			["id"] = "rbxassetid://72337034016844",
+			["definition"] = "Verb - To admit something"
+		},
+		{
+			["word"] = "seventy",
+			["id"] = "rbxassetid://70716475224704",
+			["definition"] = "Noun - The number equivalent to seven tens"
+		},
+		{
+			["word"] = "glimpse",
+			["id"] = "rbxassetid://79912619073390",
+			["definition"] = "Verb - To see briefly"
+		},
+		{
+			["word"] = "general",
+			["id"] = "rbxassetid://113196893127277",
+			["definition"] = "Adjective - Common or widespread"
+		},
+		{
+			["word"] = "snicker",
+			["id"] = "rbxassetid://137218558901193",
+			["definition"] = "Verb - To laugh quietly"
+		},
+		{
+			["word"] = "incense",
+			["id"] = "rbxassetid://97060032911313",
+			["definition"] = "Noun - A substance burned for fragrance"
+		},
+		{
+			["word"] = "swallow",
+			["id"] = "rbxassetid://115729977156760",
+			["definition"] = "Verb - To cause food to pass down the throat"
+		},
+		{
+			["word"] = "copying",
+			["id"] = "rbxassetid://113482177438806",
+			["definition"] = "Verb - Present participle of copy"
+		},
+		{
+			["word"] = "largest",
+			["id"] = "rbxassetid://91276036588381",
+			["definition"] = "Adjective - Biggest in size"
+		},
+		{
+			["word"] = "durable",
+			["id"] = "rbxassetid://90088464989765",
+			["definition"] = "Adjective - Long-lasting"
+		},
+		{
+			["word"] = "flights",
+			["id"] = "rbxassetid://127660879296263",
+			["definition"] = "Noun - Journeys by air"
+		},
+		{
+			["word"] = "raining",
+			["id"] = "rbxassetid://97463601557999",
+			["definition"] = "Verb - Present participle of rain"
+		},
+		{
+			["word"] = "crystal",
+			["id"] = "rbxassetid://72554490424474",
+			["definition"] = "Noun - A clear, transparent mineral"
+		},
+		{
+			["word"] = "stopped",
+			["id"] = "rbxassetid://139494796318904",
+			["definition"] = "Verb - Past tense of stop"
+		},
+		{
+			["word"] = "upright",
+			["id"] = "rbxassetid://83984122829237",
+			["definition"] = "Adjective - Standing straight up"
+		},
+		{
+			["word"] = "glasses",
+			["id"] = "rbxassetid://134458104959010",
+			["definition"] = "Noun - Optical lenses worn on the face"
+		},
+		{
+			["word"] = "backing",
+			["id"] = "rbxassetid://127539859712132",
+			["definition"] = "Noun - Support or reinforcement"
+		},
+		{
+			["word"] = "expense",
+			["id"] = "rbxassetid://98254891813969",
+			["definition"] = "Noun - The cost required for something"
+		},
+		{
+			["word"] = "raccoon",
+			["id"] = "rbxassetid://77529887457790",
+			["definition"] = "Noun - A nocturnal mammal with a masked face"
+		},
+		{
+			["word"] = "display",
+			["id"] = "rbxassetid://109570326206264",
+			["definition"] = "Verb - To show or exhibit"
+		},
+		{
+			["word"] = "adage",
+			["id"] = "rbxassetid://115741352514618",
+			["definition"] = "Noun - A traditional saying"
+		},
+		{
+			["word"] = "deliver",
+			["id"] = "rbxassetid://120203060142971",
+			["definition"] = "Verb - To bring and hand over"
+		},
+		{
+			["word"] = "quietly",
+			["id"] = "rbxassetid://116679073715015",
+			["definition"] = "Adverb - In a quiet manner"
+		},
+		{
+			["word"] = "cinders",
+			["id"] = "rbxassetid://108556366383438",
+			["definition"] = "Noun - Partially burned coal or wood"
+		},
+		{
+			["word"] = "receive",
+			["id"] = "rbxassetid://100152367465850",
+			["definition"] = "Verb - To get or be given something"
+		},
+		{
+			["word"] = "gouge",
+			["id"] = "rbxassetid://119670122783192",
+			["definition"] = "Verb - To make a groove or hole"
+		},
+		{
+			["word"] = "despise",
+			["id"] = "rbxassetid://134405134623779",
+			["definition"] = "Verb - To feel contempt or hatred"
+		},
+		{
+			["word"] = "discuss",
+			["id"] = "rbxassetid://134028289591129",
+			["definition"] = "Verb - To talk about"
+		},
+		{
+			["word"] = "altered",
+			["id"] = "rbxassetid://73550102036074",
+			["definition"] = "Verb - Past tense of alter"
+		},
+		{
+			["word"] = "trouble",
+			["id"] = "rbxassetid://99710712005286",
+			["definition"] = "Noun - Difficulty or problems"
+		},
+		{
+			["word"] = "ongoing",
+			["id"] = "rbxassetid://80337142069036",
+			["definition"] = "Adjective - Continuing; still in progress"
+		},
+		{
+			["word"] = "statues",
+			["id"] = "rbxassetid://114123823311409",
+			["definition"] = "Noun - Carved or cast figures"
+		},
+		{
+			["word"] = "bragged",
+			["id"] = "rbxassetid://81537411053286",
+			["definition"] = "Verb - Past tense of brag"
+		},
+		{
+			["word"] = "abyss",
+			["id"] = "rbxassetid://103673099586750",
+			["definition"] = "Noun - A deep or seemingly bottomless chasm"
+		},
+		{
+			["word"] = "filling",
+			["id"] = "rbxassetid://79207775727384",
+			["definition"] = "Noun - Material used to fill something"
+		},
+		{
+			["word"] = "pinkeye",
+			["id"] = "rbxassetid://115794041053749",
+			["definition"] = "Noun - Conjunctivitis, an eye infection"
+		},
+		{
+			["word"] = "penguin",
+			["id"] = "rbxassetid://131184283850970",
+			["definition"] = "Noun - A flightless seabird"
+		},
+		{
+			["word"] = "rubbish",
+			["id"] = "rbxassetid://124259073639356",
+			["definition"] = "Noun - Waste or worthless material"
+		},
+		{
+			["word"] = "endless",
+			["id"] = "rbxassetid://112445039772968",
+			["definition"] = "Adjective - Without end"
+		},
+		{
+			["word"] = "bruised",
+			["id"] = "rbxassetid://77363075094599",
+			["definition"] = "Verb - Past tense of bruise"
+		},
+		{
+			["word"] = "chimney",
+			["id"] = "rbxassetid://121353761231589",
+			["definition"] = "Noun - A vertical channel for smoke"
+		},
+		{
+			["word"] = "freckle",
+			["id"] = "rbxassetid://72941046445142",
+			["definition"] = "Noun - A small brown mark on the skin"
+		},
+		{
+			["word"] = "issuing",
+			["id"] = "rbxassetid://125222814720172",
+			["definition"] = "Verb - Present participle of issue"
+		},
+		{
+			["word"] = "arsenal",
+			["id"] = "rbxassetid://119040691279748",
+			["definition"] = "Noun - A collection of weapons"
+		},
+		{
+			["word"] = "declare",
+			["id"] = "rbxassetid://103789294710195",
+			["definition"] = "Verb - To announce officially"
+		},
+		{
+			["word"] = "started",
+			["id"] = "rbxassetid://113513183446681",
+			["definition"] = "Verb - Past tense of start"
+		},
+		{
+			["word"] = "federal",
+			["id"] = "rbxassetid://95738828383383",
+			["definition"] = "Adjective - Relating to the central government"
+		},
+		{
+			["word"] = "immense",
+			["id"] = "rbxassetid://124357936381970",
+			["definition"] = "Adjective - Extremely large"
+		},
+		{
+			["word"] = "illegal",
+			["id"] = "rbxassetid://133047296415493",
+			["definition"] = "Adjective - Against the law"
+		},
+		{
+			["word"] = "slipper",
+			["id"] = "rbxassetid://119204951337993",
+			["definition"] = "Noun - A comfortable indoor shoe"
+		},
+		{
+			["word"] = "circuit",
+			["id"] = "rbxassetid://115134652918721",
+			["definition"] = "Noun - A closed path for electrical current"
+		},
+		{
+			["word"] = "hunting",
+			["id"] = "rbxassetid://119083495044561",
+			["definition"] = "Verb - The act of pursuing animals"
+		},
+		{
+			["word"] = "Jupiter",
+			["id"] = "rbxassetid://131687689221315",
+			["definition"] = "Noun - The largest planet in our solar system"
+		},
+		{
+			["word"] = "quarrel",
+			["id"] = "rbxassetid://78338771950866",
+			["definition"] = "Noun - An angry argument"
+		},
+		{
+			["word"] = "reddish",
+			["id"] = "rbxassetid://114500431559384",
+			["definition"] = "Adjective - Slightly red in color"
+		},
+		{
+			["word"] = "steeple",
+			["id"] = "rbxassetid://90782420266583",
+			["definition"] = "Noun - A tall tower on a church"
+		},
+		{
+			["word"] = "satiate",
+			["id"] = "rbxassetid://127996084194883",
+			["definition"] = "Verb - To satisfy fully"
+		},
+		{
+			["word"] = "receipt",
+			["id"] = "rbxassetid://134147056497790",
+			["definition"] = "Noun - A written acknowledgment of payment"
+		},
+		{
+			["word"] = "thanked",
+			["id"] = "rbxassetid://111964935484917",
+			["definition"] = "Verb - Past tense of thank"
+		},
+		{
+			["word"] = "finally",
+			["id"] = "rbxassetid://102710974296826",
+			["definition"] = "Adverb - After a long time"
+		},
+		{
+			["word"] = "disturb",
+			["id"] = "rbxassetid://114621958520357",
+			["definition"] = "Verb - To interrupt peace or order"
+		},
+		{
+			["word"] = "courage",
+			["id"] = "rbxassetid://93774799094846",
+			["definition"] = "Noun - The ability to face fear"
+		},
+		{
+			["word"] = "bribery",
+			["id"] = "rbxassetid://136384248790243",
+			["definition"] = "Noun - Offering money to influence"
+		},
+		{
+			["word"] = "studied",
+			["id"] = "rbxassetid://117010997402067",
+			["definition"] = "Verb - Past tense of study"
+		},
+		{
+			["word"] = "parry",
+			["id"] = "rbxassetid://80245893760374",
+			["definition"] = "Verb - To ward off a weapon"
+		},
+		{
+			["word"] = "painted",
+			["id"] = "rbxassetid://115036770350066",
+			["definition"] = "Verb - Past tense of paint"
+		},
+		{
+			["word"] = "portray",
+			["id"] = "rbxassetid://93803109410267",
+			["definition"] = "Verb - To depict or represent"
+		},
+		{
+			["word"] = "brownie",
+			["id"] = "rbxassetid://110379641393160",
+			["definition"] = "Noun - A small chocolate cake"
+		},
+		{
+			["word"] = "charity",
+			["id"] = "rbxassetid://96607429804364",
+			["definition"] = "Noun - The voluntary giving of help"
+		},
+		{
+			["word"] = "cripple",
+			["id"] = "rbxassetid://116702644585273",
+			["definition"] = "Verb - To cause someone to be disabled"
+		},
+		{
+			["word"] = "treated",
+			["id"] = "rbxassetid://121715709693694",
+			["definition"] = "Verb - Past tense of treat"
+		},
+		{
+			["word"] = "sawmill",
+			["id"] = "rbxassetid://115705952469564",
+			["definition"] = "Noun - A factory for cutting lumber"
+		},
+		{
+			["word"] = "pailful",
+			["id"] = "rbxassetid://114090960437008",
+			["definition"] = "Noun - The amount a pail can hold"
+		},
+		{
+			["word"] = "easiest",
+			["id"] = "rbxassetid://108083218269489",
+			["definition"] = "Adjective - Most easy"
+		},
+		{
+			["word"] = "nothing",
+			["id"] = "rbxassetid://109749959483545",
+			["definition"] = "Noun - Not anything"
+		},
+		{
+			["word"] = "pensive",
+			["id"] = "rbxassetid://75170863714428",
+			["definition"] = "Adjective - Engaged in deep thought"
+		},
+		{
+			["word"] = "cheetah",
+			["id"] = "rbxassetid://114554707629462",
+			["definition"] = "Noun - A fast wild cat"
+		},
+		{
+			["word"] = "lexicon",
+			["id"] = "rbxassetid://96494985157642",
+			["definition"] = "Noun - The vocabulary of a language"
+		},
+		{
+			["word"] = "fantasy",
+			["id"] = "rbxassetid://101050229112780",
+			["definition"] = "Noun - Imaginative creation"
+		},
+		{
+			["word"] = "reserve",
+			["id"] = "rbxassetid://138943162093349",
+			["definition"] = "Verb - To set aside for future use"
+		},
+		{
+			["word"] = "basting",
+			["id"] = "rbxassetid://130889368571074",
+			["definition"] = "Verb - Pouring fat over meat while cooking"
+		},
+		{
+			["word"] = "counter",
+			["id"] = "rbxassetid://124421863753025",
+			["definition"] = "Noun - A flat surface for transactions"
+		},
+		{
+			["word"] = "dreamed",
+			["id"] = "rbxassetid://136624296408243",
+			["definition"] = "Verb - Past tense of dream"
+		},
+		{
+			["word"] = "unicorn",
+			["id"] = "rbxassetid://78631002945335",
+			["definition"] = "Noun - A mythical horse with a horn"
+		},
+		{
+			["word"] = "convert",
+			["id"] = "rbxassetid://111282783648464",
+			["definition"] = "Verb - To change something"
+		},
+		{
+			["word"] = "rolling",
+			["id"] = "rbxassetid://109000179241606",
+			["definition"] = "Verb - Moving by turning over"
+		}
+	},
+	["Impossible"] = {
+		{
+			["word"] = "degenerate",
+			["id"] = "rbxassetid://76457844635719",
+			["definition"] = "Adjective - Morally corrupt"
+		},
+		{
+			["word"] = "utilitarian",
+			["id"] = "rbxassetid://116989083807332",
+			["definition"] = "Adjective - Practical and functional"
+		},
+		{
+			["word"] = "altruism",
+			["id"] = "rbxassetid://109925682408948",
+			["definition"] = "Noun - Selfless concern for others"
+		},
+		{
+			["word"] = "mantelpiece",
+			["id"] = "rbxassetid://118454690678426",
+			["definition"] = "Noun - Shelf above a fireplace"
+		},
+		{
+			["word"] = "recognition",
+			["id"] = "rbxassetid://121837287214133",
+			["definition"] = "Noun - Acknowledgment of something"
+		},
+		{
+			["word"] = "glaucescent",
+			["id"] = "rbxassetid://122083522074212",
+			["definition"] = "Adjective - Having a bluish-green color"
+		},
+		{
+			["word"] = "comportment",
+			["id"] = "rbxassetid://115429634183355",
+			["definition"] = "Noun - Behavior or manners"
+		},
+		{
+			["word"] = "significant",
+			["id"] = "rbxassetid://106522209549490",
+			["definition"] = "Adjective - Important or meaningful"
+		},
+		{
+			["word"] = "magnificent",
+			["id"] = "rbxassetid://87227636390855",
+			["definition"] = "Adjective - Extremely beautiful or impressive"
+		},
+		{
+			["word"] = "contentedly",
+			["id"] = "rbxassetid://88194490610283",
+			["definition"] = "Adverb - In a satisfied manner"
+		},
+		{
+			["word"] = "destination",
+			["id"] = "rbxassetid://94629063002802",
+			["definition"] = "Noun - The place someone is going"
+		},
+		{
+			["word"] = "reactionary",
+			["id"] = "rbxassetid://136065446083231",
+			["definition"] = "Adjective - Opposing political or social progress"
+		},
+		{
+			["word"] = "indifferent",
+			["id"] = "rbxassetid://113040282168828",
+			["definition"] = "Adjective - Unconcerned or apathetic"
+		},
+		{
+			["word"] = "historical",
+			["id"] = "rbxassetid://92762129162669",
+			["definition"] = "Adjective - Relating to history"
+		},
+		{
+			["word"] = "depredation",
+			["id"] = "rbxassetid://82077969160581",
+			["definition"] = "Noun - Acts of plundering"
+		},
+		{
+			["word"] = "figurative",
+			["id"] = "rbxassetid://133421398111248",
+			["definition"] = "Adjective - Symbolic or metaphorical"
+		},
+		{
+			["word"] = "nefarious",
+			["id"] = "rbxassetid://117962280262261",
+			["definition"] = "Adjective - Wicked or criminal"
+		},
+		{
+			["word"] = "immaculate",
+			["id"] = "rbxassetid://89412496612905",
+			["definition"] = "Adjective - Perfectly clean"
+		},
+		{
+			["word"] = "necessities",
+			["id"] = "rbxassetid://89470836975261",
+			["definition"] = "Noun - Essential items"
+		},
+		{
+			["word"] = "transferred",
+			["id"] = "rbxassetid://128120617801091",
+			["definition"] = "Verb - Moved from one place to another"
+		},
+		{
+			["word"] = "execrate",
+			["id"] = "rbxassetid://105182006026877",
+			["definition"] = "Verb - To detest or curse"
+		},
+		{
+			["word"] = "premonition",
+			["id"] = "rbxassetid://97393833769271",
+			["definition"] = "Noun - A strong feeling about future events"
+		},
+		{
+			["word"] = "embezzlement",
+			["id"] = "rbxassetid://118201021372018",
+			["definition"] = "Noun - Theft of funds placed in trust"
+		},
+		{
+			["word"] = "organization",
+			["id"] = "rbxassetid://122034269613686",
+			["definition"] = "Noun - An organized group"
+		},
+		{
+			["word"] = "reminiscent",
+			["id"] = "rbxassetid://121479539345255",
+			["definition"] = "Adjective - Suggestive of something else"
+		},
+		{
+			["word"] = "embarrassment",
+			["id"] = "rbxassetid://74427031571084",
+			["definition"] = "Noun - A feeling of shame or awkwardness"
+		},
+		{
+			["word"] = "indiscretion",
+			["id"] = "rbxassetid://87234045112921",
+			["definition"] = "Noun - Lack of good judgment"
+		},
+		{
+			["word"] = "interruption",
+			["id"] = "rbxassetid://132768656234090",
+			["definition"] = "Noun - Breaking the continuity"
+		},
+		{
+			["word"] = "considerable",
+			["id"] = "rbxassetid://103332125293546",
+			["definition"] = "Adjective - Large in size or amount"
+		},
+		{
+			["word"] = "incomparable",
+			["id"] = "rbxassetid://128947043853062",
+			["definition"] = "Adjective - Beyond comparison"
+		},
+		{
+			["word"] = "suggestions",
+			["id"] = "rbxassetid://70569604734950",
+			["definition"] = "Noun - Ideas or proposals"
+		},
+		{
+			["word"] = "disseminate",
+			["id"] = "rbxassetid://128378532295169",
+			["definition"] = "Verb - To spread widely"
+		},
+		{
+			["word"] = "unenforceable",
+			["id"] = "rbxassetid://87668056729949",
+			["definition"] = "Adjective - Not able to be enforced"
+		},
+		{
+			["word"] = "delineate",
+			["id"] = "rbxassetid://117779307312411",
+			["definition"] = "Verb - To describe precisely"
+		},
+		{
+			["word"] = "inflammatory",
+			["id"] = "rbxassetid://98116468069519",
+			["definition"] = "Adjective - Causing inflammation or anger"
+		},
+		{
+			["word"] = "procrastinating",
+			["id"] = "rbxassetid://87411913123961",
+			["definition"] = "Verb - Delaying or postponing"
+		},
+		{
+			["word"] = "counterpart",
+			["id"] = "rbxassetid://94527412468373",
+			["definition"] = "Noun - A corresponding person or thing"
+		},
+		{
+			["word"] = "depreciation",
+			["id"] = "rbxassetid://134938479788506",
+			["definition"] = "Noun - Reduction in value"
+		},
+		{
+			["word"] = "essentially",
+			["id"] = "rbxassetid://111137537332884",
+			["definition"] = "Adverb - Basically or fundamentally"
+		},
+		{
+			["word"] = "mitochondria",
+			["id"] = "rbxassetid://126509686335502",
+			["definition"] = "Noun - Powerhouses of the cell"
+		},
+		{
+			["word"] = "imperatively",
+			["id"] = "rbxassetid://99920853805036",
+			["definition"] = "Adverb - In an essential manner"
+		},
+		{
+			["word"] = "preeminent",
+			["id"] = "rbxassetid://98942166143864",
+			["definition"] = "Adjective - Surpassing others"
+		},
+		{
+			["word"] = "promiscuous",
+			["id"] = "rbxassetid://92119664731130",
+			["definition"] = "Adjective - Having many casual relationships"
+		},
+		{
+			["word"] = "congratulations",
+			["id"] = "rbxassetid://89503553706834",
+			["definition"] = "Noun - Expressions of praise"
+		},
+		{
+			["word"] = "adjudicate",
+			["id"] = "rbxassetid://135392794794370",
+			["definition"] = "Verb - To make a judgment"
+		},
+		{
+			["word"] = "reconcilable",
+			["id"] = "rbxassetid://110415724883111",
+			["definition"] = "Adjective - Able to be reconciled"
+		},
+		{
+			["word"] = "undesirable",
+			["id"] = "rbxassetid://79326606973129",
+			["definition"] = "Adjective - Not wanted"
+		},
+		{
+			["word"] = "dissonance",
+			["id"] = "rbxassetid://125148375493668",
+			["definition"] = "Noun - Lack of harmony"
+		},
+		{
+			["word"] = "evanescent",
+			["id"] = "rbxassetid://114948968433464",
+			["definition"] = "Adjective - Vanishing quickly"
+		},
+		{
+			["word"] = "delineation",
+			["id"] = "rbxassetid://113775219844129",
+			["definition"] = "Noun - Detailed description"
+		},
+		{
+			["word"] = "counterweight",
+			["id"] = "rbxassetid://131463951331824",
+			["definition"] = "Noun - A weight balancing another"
+		},
+		{
+			["word"] = "cobblestone",
+			["id"] = "rbxassetid://125256234433428",
+			["definition"] = "Noun - Small, round stones used for paving"
+		},
+		{
+			["word"] = "handicapped",
+			["id"] = "rbxassetid://91090831873856",
+			["definition"] = "Adjective - Having a disability"
+		},
+		{
+			["word"] = "insignificant",
+			["id"] = "rbxassetid://130312023516600",
+			["definition"] = "Adjective - Not important"
+		},
+		{
+			["word"] = "valedictorian",
+			["id"] = "rbxassetid://105249153874920",
+			["definition"] = "Noun - Top graduating student"
+		},
+		{
+			["word"] = "headmistress",
+			["id"] = "rbxassetid://76336135524695",
+			["definition"] = "Noun - Female school principal"
+		},
+		{
+			["word"] = "precautionary",
+			["id"] = "rbxassetid://85836902177803",
+			["definition"] = "Adjective - Taken in advance to prevent something"
+		},
+		{
+			["word"] = "refreshment",
+			["id"] = "rbxassetid://131402781400525",
+			["definition"] = "Noun - Food or drink to revive energy"
+		},
+		{
+			["word"] = "approximation",
+			["id"] = "rbxassetid://109007312263286",
+			["definition"] = "Noun - An estimate or rough calculation"
+		},
+		{
+			["word"] = "acknowledged",
+			["id"] = "rbxassetid://81299080961791",
+			["definition"] = "Verb - Accepted as true"
+		},
+		{
+			["word"] = "plantation",
+			["id"] = "rbxassetid://95536747742484",
+			["definition"] = "Noun - A large farm with crops"
+		},
+		{
+			["word"] = "substantiate",
+			["id"] = "rbxassetid://82147310813835",
+			["definition"] = "Verb - To provide evidence for"
+		},
+		{
+			["word"] = "typographical",
+			["id"] = "rbxassetid://78746766315872",
+			["definition"] = "Adjective - Relating to typesetting"
+		},
+		{
+			["word"] = "fulfillment",
+			["id"] = "rbxassetid://115086851841529",
+			["definition"] = "Noun - Achievement of something desired"
+		},
+		{
+			["word"] = "featureless",
+			["id"] = "rbxassetid://111563979777119",
+			["definition"] = "Adjective - Lacking distinctive features"
+		},
+		{
+			["word"] = "proliferation",
+			["id"] = "rbxassetid://106968789452276",
+			["definition"] = "Noun - Rapid increase or spread"
+		},
+		{
+			["word"] = "psychological",
+			["id"] = "rbxassetid://112508436319022",
+			["definition"] = "Adjective - Relating to the mind"
+		},
+		{
+			["word"] = "scrutinize",
+			["id"] = "rbxassetid://125482478996514",
+			["definition"] = "Verb - To examine closely"
+		},
+		{
+			["word"] = "nullification",
+			["id"] = "rbxassetid://135653408474230",
+			["definition"] = "Noun - Making something legally void"
+		},
+		{
+			["word"] = "destructive",
+			["id"] = "rbxassetid://108935807871688",
+			["definition"] = "Adjective - Causing damage"
+		},
+		{
+			["word"] = "dictionaries",
+			["id"] = "rbxassetid://112491483474637",
+			["definition"] = "Noun - Reference books with words and meanings"
+		},
+		{
+			["word"] = "picturesque",
+			["id"] = "rbxassetid://138172842559379",
+			["definition"] = "Adjective - Visually attractive"
+		},
+		{
+			["word"] = "quarantine",
+			["id"] = "rbxassetid://77986059297219",
+			["definition"] = "Noun - Isolation to prevent disease spread"
+		},
+		{
+			["word"] = "pernicious",
+			["id"] = "rbxassetid://86999640582390",
+			["definition"] = "Adjective - Highly injurious"
+		},
+		{
+			["word"] = "proportions",
+			["id"] = "rbxassetid://117009627090259",
+			["definition"] = "Noun - The relative size of parts"
+		},
+		{
+			["word"] = "fabricated",
+			["id"] = "rbxassetid://99245747871196",
+			["definition"] = "Verb - Made up or invented"
+		},
+		{
+			["word"] = "considered",
+			["id"] = "rbxassetid://96843755488446",
+			["definition"] = "Verb - Thought about carefully"
+		},
+		{
+			["word"] = "stereotype",
+			["id"] = "rbxassetid://75477546422621",
+			["definition"] = "Noun - A widely held but fixed idea"
+		},
+		{
+			["word"] = "mathematics",
+			["id"] = "rbxassetid://117133711004916",
+			["definition"] = "Noun - The study of numbers and shapes"
+		},
+		{
+			["word"] = "scientific",
+			["id"] = "rbxassetid://89883351417763",
+			["definition"] = "Adjective - Related to science"
+		},
+		{
+			["word"] = "extenuating",
+			["id"] = "rbxassetid://95134604908209",
+			["definition"] = "Adjective - Making a fault seem less serious"
+		},
+		{
+			["word"] = "contraband",
+			["id"] = "rbxassetid://76623806621084",
+			["definition"] = "Noun - Illegal goods"
+		},
+		{
+			["word"] = "foreshadow",
+			["id"] = "rbxassetid://106962499161467",
+			["definition"] = "Verb - To indicate something in advance"
+		},
+		{
+			["word"] = "maladjusted",
+			["id"] = "rbxassetid://102344214177691",
+			["definition"] = "Adjective - Poorly adjusted to environment"
+		},
+		{
+			["word"] = "consequence",
+			["id"] = "rbxassetid://106939420024338",
+			["definition"] = "Noun - A result or effect"
+		},
+		{
+			["word"] = "abjure",
+			["id"] = "rbxassetid://118195619870582",
+			["definition"] = "Verb - To renounce formally"
+		},
+		{
+			["word"] = "enterprise",
+			["id"] = "rbxassetid://96608341030624",
+			["definition"] = "Noun - A project or venture"
+		},
+		{
+			["word"] = "collections",
+			["id"] = "rbxassetid://108406914538560",
+			["definition"] = "Noun - Groups of related items"
+		},
+		{
+			["word"] = "preservative",
+			["id"] = "rbxassetid://106687774085573",
+			["definition"] = "Noun - Substance to prevent decay"
+		},
+		{
+			["word"] = "noctambulist",
+			["id"] = "rbxassetid://90437570737265",
+			["definition"] = "Noun - A sleepwalker"
+		},
+		{
+			["word"] = "earthenware",
+			["id"] = "rbxassetid://75022989764432",
+			["definition"] = "Noun - Pottery made from clay"
+		},
+		{
+			["word"] = "inconvenient",
+			["id"] = "rbxassetid://128801529476341",
+			["definition"] = "Adjective - Causing difficulty"
+		},
+		{
+			["word"] = "loneliness",
+			["id"] = "rbxassetid://136971886715706",
+			["definition"] = "Noun - Sadness from isolation"
+		},
+		{
+			["word"] = "fahrenheit",
+			["id"] = "rbxassetid://108282445590850",
+			["definition"] = "Noun - Temperature scale"
+		},
+		{
+			["word"] = "ventriloquism",
+			["id"] = "rbxassetid://91370977073171",
+			["definition"] = "Noun - The art of voice projection"
+		},
+		{
+			["word"] = "paleontology",
+			["id"] = "rbxassetid://127246784532152",
+			["definition"] = "Noun - Study of fossils"
+		},
+		{
+			["word"] = "methodical",
+			["id"] = "rbxassetid://89866188211708",
+			["definition"] = "Adjective - Systematic and orderly"
+		},
+		{
+			["word"] = "fanaticism",
+			["id"] = "rbxassetid://135931435028740",
+			["definition"] = "Noun - Extreme zeal"
+		},
+		{
+			["word"] = "stenographer",
+			["id"] = "rbxassetid://80444273969539",
+			["definition"] = "Noun - A shorthand writer"
+		},
+		{
+			["word"] = "velocity",
+			["id"] = "rbxassetid://112922676199544",
+			["definition"] = "Noun - Speed in a given direction"
+		},
+		{
+			["word"] = "incumbency",
+			["id"] = "rbxassetid://83128949240499",
+			["definition"] = "Noun - Holding an office"
+		},
+		{
+			["word"] = "pendulous",
+			["id"] = "rbxassetid://125610591160434",
+			["definition"] = "Adjective - Hanging loosely"
+		},
+		{
+			["word"] = "supercilious",
+			["id"] = "rbxassetid://140186529391403",
+			["definition"] = "Adjective - Behaving with haughty pride"
+		},
+		{
+			["word"] = "erroneous",
+			["id"] = "rbxassetid://104157654933595",
+			["definition"] = "Adjective - Incorrect or mistaken"
+		},
+		{
+			["word"] = "perpetuate",
+			["id"] = "rbxassetid://98957078413400",
+			["definition"] = "Verb - To make lasting"
+		},
+		{
+			["word"] = "supercilious",
+			["id"] = "rbxassetid://91308387110154",
+			["definition"] = "Adjective - Behaving with haughty pride"
+		},
+		{
+			["word"] = "complimented",
+			["id"] = "rbxassetid://85059109341526",
+			["definition"] = "Verb - Past tense of compliment"
+		},
+		{
+			["word"] = "contaminated",
+			["id"] = "rbxassetid://102691977505768",
+			["definition"] = "Adjective - Made impure"
+		},
+		{
+			["word"] = "counterfeit",
+			["id"] = "rbxassetid://78107281622695",
+			["definition"] = "Adjective - Made to imitate"
+		},
+		{
+			["word"] = "administration",
+			["id"] = "rbxassetid://74408549484363",
+			["definition"] = "Noun - The process of managing"
+		},
+		{
+			["word"] = "hydroelectric",
+			["id"] = "rbxassetid://110518815695427",
+			["definition"] = "Adjective - Related to electricity from water"
+		},
+		{
+			["word"] = "cheesecloth",
+			["id"] = "rbxassetid://99530748802335",
+			["definition"] = "Noun - A loosely woven cotton fabric"
+		},
+		{
+			["word"] = "accompaniment",
+			["id"] = "rbxassetid://110094580927407",
+			["definition"] = "Noun - Something that complements"
+		},
+		{
+			["word"] = "bloodcurdling",
+			["id"] = "rbxassetid://124568729761272",
+			["definition"] = "Adjective - Horrifying or terrifying"
+		},
+		{
+			["word"] = "accommodation",
+			["id"] = "rbxassetid://88800334896356",
+			["definition"] = "Noun - Lodging or housing"
+		},
+		{
+			["word"] = "precipitation",
+			["id"] = "rbxassetid://79251904707458",
+			["definition"] = "Noun - Rain, snow, or sleet"
+		},
+		{
+			["word"] = "restrained",
+			["id"] = "rbxassetid://139803086477181",
+			["definition"] = "Adjective - Controlled or limited"
+		},
+		{
+			["word"] = "abscess",
+			["id"] = "rbxassetid://102771276406894",
+			["definition"] = "Noun - A collection of pus"
+		},
+		{
+			["word"] = "perfidious",
+			["id"] = "rbxassetid://77193844420687",
+			["definition"] = "Adjective - Deceitful or untrustworthy"
+		},
+		{
+			["word"] = "parenthesis",
+			["id"] = "rbxassetid://126941535096730",
+			["definition"] = "Noun - A word or phrase inserted in a sentence"
+		},
+		{
+			["word"] = "lexicographer",
+			["id"] = "rbxassetid://90762551737106",
+			["definition"] = "Noun - A dictionary writer"
+		},
+		{
+			["word"] = "cleanliness",
+			["id"] = "rbxassetid://70952714934545",
+			["definition"] = "Noun - The state of being clean"
+		},
+		{
+			["word"] = "juxtaposition",
+			["id"] = "rbxassetid://129304408144789",
+			["definition"] = "Noun - Placement side by side"
+		},
+		{
+			["word"] = "syllabication",
+			["id"] = "rbxassetid://104496514557068",
+			["definition"] = "Noun - Division into syllables"
+		},
+		{
+			["word"] = "irretrievable",
+			["id"] = "rbxassetid://139797756336130",
+			["definition"] = "Adjective - Impossible to recover"
+		},
+		{
+			["word"] = "concessionary",
+			["id"] = "rbxassetid://136589909130732",
+			["definition"] = "Adjective - Granting a concession"
+		},
+		{
+			["word"] = "participant",
+			["id"] = "rbxassetid://77546927477055",
+			["definition"] = "Noun - A person taking part"
+		},
+		{
+			["word"] = "meteorology",
+			["id"] = "rbxassetid://100612788535598",
+			["definition"] = "Noun - Study of weather"
+		},
+		{
+			["word"] = "nonchalant",
+			["id"] = "rbxassetid://137208407306894",
+			["definition"] = "Adjective - Calm and unconcerned"
+		},
+		{
+			["word"] = "commercialize",
+			["id"] = "rbxassetid://113637395349104",
+			["definition"] = "Verb - To make something commercial"
+		},
+		{
+			["word"] = "recuperation",
+			["id"] = "rbxassetid://108029008602572",
+			["definition"] = "Noun - Recovery from illness"
+		},
+		{
+			["word"] = "irresistible",
+			["id"] = "rbxassetid://102198315546673",
+			["definition"] = "Adjective - Too attractive to resist"
+		},
+		{
+			["word"] = "anniversary",
+			["id"] = "rbxassetid://80217407601555",
+			["definition"] = "Noun - A date marking an event\'s occurrence"
+		},
+		{
+			["word"] = "inconvenience",
+			["id"] = "rbxassetid://139562646877284",
+			["definition"] = "Noun - A minor annoyance"
+		},
+		{
+			["word"] = "complimentary",
+			["id"] = "rbxassetid://104622199024156",
+			["definition"] = "Adjective - Completing or enhancing"
+		},
+		{
+			["word"] = "rehabilitation",
+			["id"] = "rbxassetid://122622995059443",
+			["definition"] = "Noun - Restoring to good condition"
+		},
+		{
+			["word"] = "questionable",
+			["id"] = "rbxassetid://88209177157770",
+			["definition"] = "Adjective - Doubtful or suspect"
+		},
+		{
+			["word"] = "synthesis",
+			["id"] = "rbxassetid://113395468177560",
+			["definition"] = "Noun - Combination of elements"
+		},
+		{
+			["word"] = "insurmountable",
+			["id"] = "rbxassetid://129639465441856",
+			["definition"] = "Adjective - Impossible to overcome"
+		},
+		{
+			["word"] = "undernourished",
+			["id"] = "rbxassetid://123775655829204",
+			["definition"] = "Adjective - Not receiving enough nutrition"
+		},
+		{
+			["word"] = "nonessential",
+			["id"] = "rbxassetid://102665316551350",
+			["definition"] = "Adjective - Not necessary"
+		},
+		{
+			["word"] = "hallucinations",
+			["id"] = "rbxassetid://135612014940195",
+			["definition"] = "Noun - False sensory experiences"
+		},
+		{
+			["word"] = "incompatible",
+			["id"] = "rbxassetid://127151513530436",
+			["definition"] = "Adjective - Unable to coexist"
+		},
+		{
+			["word"] = "inaccurately",
+			["id"] = "rbxassetid://98034735410453",
+			["definition"] = "Adverb - Not accurately"
+		},
+		{
+			["word"] = "detachable",
+			["id"] = "rbxassetid://121965897889061",
+			["definition"] = "Adjective - Able to be separated"
+		},
+		{
+			["word"] = "stalactite",
+			["id"] = "rbxassetid://117841305050891",
+			["definition"] = "Noun - Hanging mineral formation"
+		},
+		{
+			["word"] = "compensation",
+			["id"] = "rbxassetid://86617336125369",
+			["definition"] = "Noun - Payment for loss or injury"
+		},
+		{
+			["word"] = "convergence",
+			["id"] = "rbxassetid://76875583568485",
+			["definition"] = "Noun - Coming together"
+		},
+		{
+			["word"] = "perfunctory",
+			["id"] = "rbxassetid://88873250428011",
+			["definition"] = "Adjective - Carried out with minimal effort"
+		},
+		{
+			["word"] = "exaggerate",
+			["id"] = "rbxassetid://101831142263824",
+			["definition"] = "Verb - To represent as greater than"
+		},
+		{
+			["word"] = "utilitarianism",
+			["id"] = "rbxassetid://139105241363688",
+			["definition"] = "Noun - Philosophy of usefulness"
+		},
+		{
+			["word"] = "expeditionaries",
+			["id"] = "rbxassetid://135491028265767",
+			["definition"] = "Noun - Members of an expedition"
+		}
+	},
+	["Final"] = {
+		{
+			["word"] = "arachnophobia",
+			["id"] = "rbxassetid://87514245481845",
+			["definition"] = "Noun - Fear of spiders"
+		},
+		{
+			["word"] = "idiosyncrasy",
+			["id"] = "rbxassetid://110120395577699",
+			["definition"] = "Noun - A peculiar trait"
+		},
+		{
+			["word"] = "asphyxiate",
+			["id"] = "rbxassetid://127842795416244",
+			["definition"] = "Verb - To suffocate"
+		},
+		{
+			["word"] = "fallibility",
+			["id"] = "rbxassetid://117085619820730",
+			["definition"] = "Noun - The ability to make mistakes"
+		},
+		{
+			["word"] = "expostulation",
+			["id"] = "rbxassetid://71206929727886",
+			["definition"] = "Noun - Expression of protest"
+		},
+		{
+			["word"] = "glockenspiel",
+			["id"] = "rbxassetid://118028881913884",
+			["definition"] = "Noun - A musical instrument with metal bars"
+		},
+		{
+			["word"] = "encumbrance",
+			["id"] = "rbxassetid://86776894256669",
+			["definition"] = "Noun - A burden or impediment"
+		},
+		{
+			["word"] = "recalcitrant",
+			["id"] = "rbxassetid://90143046867438",
+			["definition"] = "Adjective - Stubbornly resistant"
+		},
+		{
+			["word"] = "boisterously",
+			["id"] = "rbxassetid://138654970364774",
+			["definition"] = "Adverb - In a noisy, energetic way"
+		},
+		{
+			["word"] = "narcissistic",
+			["id"] = "rbxassetid://133528183719862",
+			["definition"] = "Adjective - Excessive interest in oneself"
+		},
+		{
+			["word"] = "flabbergasted",
+			["id"] = "rbxassetid://87873990729119",
+			["definition"] = "Adjective - Extremely surprised"
+		},
+		{
+			["word"] = "matriculate",
+			["id"] = "rbxassetid://138650678414999",
+			["definition"] = "Verb - Enroll in college"
+		},
+		{
+			["word"] = "mississippi",
+			["id"] = "rbxassetid://88686827788842",
+			["definition"] = "Noun - US state or river"
+		},
+		{
+			["word"] = "decentralization",
+			["id"] = "rbxassetid://139869231047202",
+			["definition"] = "Noun - Distribution of authority"
+		},
+		{
+			["word"] = "concessionaire",
+			["id"] = "rbxassetid://106897945264830",
+			["definition"] = "Noun - Business person holding concession"
+		},
+		{
+			["word"] = "aeronautical",
+			["id"] = "rbxassetid://100592602833220",
+			["definition"] = "Adjective - Related to aviation"
+		},
+		{
+			["word"] = "refectory",
+			["id"] = "rbxassetid://77862543501413",
+			["definition"] = "Noun - Dining hall in institution"
+		},
+		{
+			["word"] = "disciplinary",
+			["id"] = "rbxassetid://115928812915913",
+			["definition"] = "Adjective - Relating to discipline"
+		},
+		{
+			["word"] = "inconsequential",
+			["id"] = "rbxassetid://108207542361432",
+			["definition"] = "Adjective - Not important"
+		},
+		{
+			["word"] = "conscientious",
+			["id"] = "rbxassetid://135945447323310",
+			["definition"] = "Adjective - Wishing to do right"
+		},
+		{
+			["word"] = "fluorescent",
+			["id"] = "rbxassetid://134872209533295",
+			["definition"] = "Adjective - Emitting light"
+		},
+		{
+			["word"] = "disposition",
+			["id"] = "rbxassetid://79442184445359",
+			["definition"] = "Noun - General attitude or mood"
+		},
+		{
+			["word"] = "oscilloscope",
+			["id"] = "rbxassetid://123999679691680",
+			["definition"] = "Noun - Device for viewing electrical signals"
+		},
+		{
+			["word"] = "stratification",
+			["id"] = "rbxassetid://99404420125446",
+			["definition"] = "Noun - Layering or arranging in strata"
+		},
+		{
+			["word"] = "evangelical",
+			["id"] = "rbxassetid://73179042443053",
+			["definition"] = "Adjective - Relating to preaching the gospel"
+		},
+		{
+			["word"] = "apocalyptic",
+			["id"] = "rbxassetid://119708341736984",
+			["definition"] = "Adjective - Relating to end times"
+		},
+		{
+			["word"] = "incoherently",
+			["id"] = "rbxassetid://86942217500959",
+			["definition"] = "Adverb - In a confused manner"
+		},
+		{
+			["word"] = "despondency",
+			["id"] = "rbxassetid://116409980924135",
+			["definition"] = "Noun - State of low spirits"
+		},
+		{
+			["word"] = "beleaguered",
+			["id"] = "rbxassetid://109909181387981",
+			["definition"] = "Adjective - Under siege or pressure"
+		},
+		{
+			["word"] = "transatlantic",
+			["id"] = "rbxassetid://97518693286023",
+			["definition"] = "Adjective - Across the Atlantic"
+		},
+		{
+			["word"] = "appurtenance",
+			["id"] = "rbxassetid://101000811665461",
+			["definition"] = "Noun - Added to another thing"
+		},
+		{
+			["word"] = "conflagration",
+			["id"] = "rbxassetid://131277349843623",
+			["definition"] = "Noun - A large destructive fire"
+		},
+		{
+			["word"] = "ephemeral",
+			["id"] = "rbxassetid://126835044126462",
+			["definition"] = "Adjective - Lasting for a short time"
+		},
+		{
+			["word"] = "rearmament",
+			["id"] = "rbxassetid://87170857477416",
+			["definition"] = "Noun - Rebuilding armed forces"
+		},
+		{
+			["word"] = "postulate",
+			["id"] = "rbxassetid://113834379098572",
+			["definition"] = "Verb - To assume or assert"
+		},
+		{
+			["word"] = "tumultuous",
+			["id"] = "rbxassetid://104130980221025",
+			["definition"] = "Adjective - Noisy and disorderly"
+		},
+		{
+			["word"] = "unscrupulous",
+			["id"] = "rbxassetid://140171527638353",
+			["definition"] = "Adjective - Having no moral principles"
+		},
+		{
+			["word"] = "indomitable",
+			["id"] = "rbxassetid://117920079982297",
+			["definition"] = "Adjective - Impossible to subdue"
+		},
+		{
+			["word"] = "hippopotamus",
+			["id"] = "rbxassetid://122743103369247",
+			["definition"] = "Noun - A large river mammal"
+		},
+		{
+			["word"] = "intensification",
+			["id"] = "rbxassetid://74188149572148",
+			["definition"] = "Noun - Becoming more intense"
+		}
+	}
+}
+
